@@ -333,4 +333,8 @@ Gephi can't deal with bipartitie or k-partitie graphs. If you load a bipartitie,
 
 NOTE: If you have a bipartitite or tripartitie, you can do a network projection.  Allows you to take a k-partite and project into a unipartitie network.  There is a plugin for gephi for network projection. It's difficult to use.  Shawn Graham has a blog post about this. 
 
+---- 
+
+Clement  Levalois - Gephi YouTube Videos
+Network Analysis -  Historian's Macroscope |  Networks, Crowds and Markets | Networks: An Introduction (Newman)
 
