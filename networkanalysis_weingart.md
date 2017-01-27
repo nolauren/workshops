@@ -67,10 +67,16 @@ More recent work is helping with this. Not in the tools.
 
 Network algorithms aren't great with self-loops.
 
-### Huamanitie Networks
-Moretti - Network Plot Analysis Article
-Russian River Network - Moscow had highest betweeness centrality.
-Florentine Families (Padgett & Ansell 1993)
+### Huamanities Networks
+- Moretti - Network Plot Analysis Article
+- Russian River Network - Moscow had highest betweeness centrality.
+- Florentine Families (Padgett & Ansell 1993) (Read!) No math. Just visualization.
+- Charachter Network (Graham Sack 2012) - charachter co-occurance networks. Literary trends.
+- Body in Folklore (Weingart & Jorgensen 2013 - "Representations of Gender and the Body in European Folktales") 
+
+
+
+
 
 
 
