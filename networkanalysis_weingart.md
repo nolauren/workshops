@@ -114,7 +114,12 @@ Way to structure networks in Excel.
 
 ### Diary of Samual Pepys
 http://www.pepysdiary.com/
-
+- Make your own network.
+- Use Pepy's diary - two days. 
+- Launch NodeXL
+- Walking through NodeXL. (Ex. Use Width in Edges to represent weight.)
+- Provided a few ideas.
+- Now go!
 
 
 
