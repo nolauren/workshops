@@ -74,6 +74,43 @@ Network algorithms aren't great with self-loops.
 - Charachter Network (Graham Sack 2012) - charachter co-occurance networks. Literary trends.
 - Body in Folklore (Weingart & Jorgensen 2013 - "Representations of Gender and the Body in European Folktales") 
 
+## Network Data and Decision Making / Part 2
+
+### Data vs Capta
+- Data (n) - Neuter past participle of dare (latin)/ what which is given
+- Capta (n) -Neuter past participle pf capere (latin)/ "That which is taken"
+
+Teach: Have students redo Moretti's network. Rarely do!
+
+### Choosing Varibles
+- spectrum of subjectivity
+- subjective process of variable choice
+- all that data -> bottom of the iceberg
+
+### Network Data
+
+Flows -  Potentiona <--> Actual (Helpful slide he has)
+
+### Generating Data
+- image of dining room... how to make the network? What decisions will we make?
+Ex. charachter interactions 
+
+Scott fan of doing mulitple networks and the results agree, then can trust the result.
+Not a fan of one graph, see!, walk away.
+
+### The Matrix
+graph theory -> linear algebra (not happy with self loops, particulary in gephi)
+
+### Adjacency/ Edge List 
+Prefered mode. (Relational database -> a join table)
+Not for underlying representation. Need this as a data structure.
+
+### Node & Edge Lists 
+Makes it easier to add attributes.
+
+
+
+
 
 
 
