@@ -109,7 +109,11 @@ Not for underlying representation. Need this as a data structure.
 Makes it easier to add attributes.
 
 
+### NodeXL
+Way to structure networks in Excel.
 
+### Diary of Samual Pepys
+http://www.pepysdiary.com/
 
 
 
