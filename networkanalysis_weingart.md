@@ -317,6 +317,16 @@ Rherotical strategies.  They aren't mathmatically definitive.
 
 Preview: 
 
+- Click on Refresh.  SW: Doesn't like curved lines. Actually makes it hard to read. 
+
+- Settings -> Edges -> uncheck Curved 
+
+- Settings -> Nodes -> Show Labels and 
+
+- Nodes -> ajdust 
+
+- Edges -> Rescale Weight
+
 ------------- 
 
 Gephi can't deal with bipartitie or k-partitie graphs. If you load a bipartitie, none of the articles will be neighbors with my authors. Algorithm for clutering coefficient assumes a unipartite network. Will give you "0". 
