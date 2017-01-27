@@ -133,5 +133,18 @@ http://www.pepysdiary.com/
 
 ## Workshop II
 
+### Dyads adn Triads
+Can ask how many in your network?
+
+### Dyads & Global Reciprocity
+How reciprocal? How like to write back for example?
+Helps us look at power dynamics in a network for example. Loca and global reciprocity. 
+
+### Transitivity
+What's the likelinhood two nodes will become conneted? In other words, two nodes become friends?
+Will see local densities get more dense.
+
+### Global Triadic Closure
+What is the global tridic closure? Likelihood triangles will close?
 
 
