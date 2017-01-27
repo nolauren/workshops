@@ -285,3 +285,42 @@ There are ways to rhetorical techniques to show relationships but not mathmatica
 Use affordances of visual rhetoric.
 
 
+### GEPHI!
+Using LesMis data.  Share stage time (we think).
+
+Modularity = Community Detection (Can see it on our node list.) The numbers just correspond to their community. Just a label. A larger number doesn't matter and their order doesn't matter. 
+
+Color is nice because qualitatively important.
+
+- Avg Degree : Power Log Distribution  and Avg Degree can tell you a little about the centralization. Avg degree is helpful with a normal distribution but not helpful with a power law distribution necessarily.  Median is much more useful for powerlaw. In our case, most nodes are below average so that isn't very helpful. 
+
+- Running the stats has changed your data structure.
+
+- Avg Weighted Degree: Not just adding up all the neighbords, adding up the weights of the edges.   If weights are important, then this is more helpful than avg degree. 
+
+- Network Diameter: Do you want to Normalize Centralities?  Saying Yes.
+
+Nodes -> Appearance -> Ranking
+- Degree: Highest degree is darkest green 
+
+- Modularity: Use default settings. Larger = more nodes  Now just 4. When loaded sample data, it was 10 (b/c they played with the default settings.) Play with Resolution to get differet number of communities.  Nodes -> Partition -> Modularity
+
+
+Layout: 
+
+- Fruchterman Reingold ->  
+
+- ForceAtlas2 - If lots of data, he suggested.  Turns on "Prevent Overlap" and "Dissuade Hubs"
+
+Rherotical strategies.  They aren't mathmatically definitive. 
+
+
+Preview: 
+
+------------- 
+
+Gephi can't deal with bipartitie or k-partitie graphs. If you load a bipartitie, none of the articles will be neighbors with my authors. Algorithm for clutering coefficient assumes a unipartite network. Will give you "0". 
+
+NOTE: If you have a bipartitite or tripartitie, you can do a network projection.  Allows you to take a k-partite and project into a unipartitie network.  There is a plugin for gephi for network projection. It's difficult to use.  Shawn Graham has a blog post about this. 
+
+
