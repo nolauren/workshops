@@ -281,6 +281,7 @@ We have an idea that eucleadian distance matters. So closer together this must m
 NOT true in networks. 
 This visualizations are a little random. Distance does not similarity. 
 
-
+There are ways to rhetorical techniques to show relationships but not mathmatically accurate. 
+Use affordances of visual rhetoric.
 
 
