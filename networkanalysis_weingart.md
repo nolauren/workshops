@@ -122,7 +122,10 @@ http://www.pepysdiary.com/
 - Now go!
 
 
+### Moving from NodeXL to Gephi
+- Source/ Target/ Type / Kind / Weight in regular excel
 
+### Gephi
 
 
 
