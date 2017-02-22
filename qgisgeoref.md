@@ -75,3 +75,20 @@ How does it look? Let's add more points!
 Plugins -> OpenLayers Plugin
 
 Use OpenLayers to add a basemap!
+
+
+
+
+------
+
+## Add Layers
+
+Layer -> Create Layer -> New Shapefile Layer   ... select the right kind of "Type". Name the Layer and Save.
+
+Select the pencil button (aka "toggle editing") and add feature (two buttons over).
+
+Click on the map to create. For example, if creating a polygon, click on the map to make one. Once done, click off the "toggle editing" button in order to save. 
+
+
+
+
