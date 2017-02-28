@@ -101,8 +101,31 @@ WHERE year > 0
 And select Apply.
 Let's try torque again!
 
-### Base Map
+### Let's zoom in.
 
-You can also change you basemap on the top left. 
+Wizard -> Simple
+
+Let's zoom in on Virginia.
+
+Change Labeltext to "nickname".
+
+Let's get rid of the Not Named entries.
+
+```
+SELECT * FROM klavern
+WHERE nickname != 'Not Named'
+```
+
+Adjust the basemap and details. 
+
+Let's add some more details. 
+Click on infowindow. Let's turn on nickname, notes and year.
+You can also select Hover instead.
+
+### Final 
+
+To actually make this a map, you must save it. To do so, select "Visualize."
+
+ 
 
 
