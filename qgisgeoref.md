@@ -92,3 +92,62 @@ Click on the map to create. For example, if creating a polygon, click on the map
 
 
 
+------
+
+
+Add Layer -> Add Vector Layer ->  pull in .shp files
+
+Now have our wards and parade lines.
+
+Now need to merge shapefiles in QGis.
+
+Vector -> Merge Vector Layers -> Merge Wards  by selecting all.  Click on button with Merged to save.
+
+Merged file -> open Attribute Table ->  Add our data into this. Toggle on editing mode.
+New Field ->  Name: Ward_id , whole number. Name the wards. 
+New Field ->  Add fields for the population. 
+Click Stop Editing to save. 
+
+------
+
+# Carto
+
+Wards in one files. Routes in another file. They need be zipped. 
+All data procesing in QGIS.  Visualizations in Carto.
+
+## Datasets
+New Dataset  -> Browse and upload your .zip file. 
+
+the_geom - if you double click, you'll see a set of coordinates. 
+Can add metadata about the project.
+Select Create Map.
+
+## Basemap
+
+## Layers
+You'll have the wards, parades, and base map.
+
+## Pop-Up
+Gives you a pop-up when someone clicks. 
+
+## Widgets
+
+You can create widgets that will allow users to interact with the map based on your data.
+Once you have a widget, you can style it as well by click on the three vertical dots on the top right of the box.
+
+For the parade routes, use Type -> Category. (One approach.)
+
+
+## Maps - Datasets
+Make sure to go to the Map view to see the map you created. 
+Don't go to the dataset and create another map. It will make a new one. 
+
+
+
+
+------
+
+# Carto
+
+
+
