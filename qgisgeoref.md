@@ -145,9 +145,6 @@ Don't go to the dataset and create another map. It will make a new one.
 
 
 
-------
-
-# Carto
-
+ 
 
 
