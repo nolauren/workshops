@@ -37,7 +37,7 @@ Limits of Timeline.js:
 
 Note: The structure of the data is helpful for moving to another tool.
 
-### Sample Data
+### Sample Data 
 
 New Deal Events: http://xroads.virginia.edu/~MA02/volpe/newdeal/timeline_text.html
 
