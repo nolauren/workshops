@@ -1,4 +1,4 @@
-# Digital History Toolbox
+# Digital Humanities Toolbox
 ESU 2017   
 
 This session is an all-encompassing look at incorporating entry-level tools 
