@@ -55,7 +55,29 @@ Others: [TikiToki](http://www.tiki-toki.com/)
 
 
 ------------
-## Mapping (Storymap.js)
+Time Mapper (http://timemapper.okfnlabs.org/)
+
+Like with Timeline.js, a specific template is needed. 
+
+Here is an example to use as a guide: [Template](https://docs.google.com/spreadsheet/ccc?key=0Al6mO9_3Hr2PdGZnRjEwUWxOekhreTNNZEFEMWRZbkE)
+
+Once on the google spreadsheet, adjust according to your data.
+
+If you want to collaborate, select "Share" on the top right of the spreadsheet. 
+
+Once you are finished, go to File -> Publish to the Web -> Publish 
+Then, take the URL and go back to  http://timemapper.okfnlabs.org/create  to add your url in Step 2. 
+
+Now you have choices:
+1. Timemap
+2. Timeline
+3. Map
+
+
+ 
+
+----------------
+## Story Mapping (Storymap.js)
 
 Several broad categories of mapping (not exhaustive by any means!):
 
