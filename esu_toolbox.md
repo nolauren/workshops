@@ -253,3 +253,14 @@ We also have a new option - Distinctive Words. Voyant uses Term Frequency-Invers
 <a name="myfootnote1">1</a>: See https://voyant-tools.org/docs/#!/guide/about
 
 
+-------------------
+
+## Mallet
+
+For the tutorial, visit [here](https://docs.google.com/document/d/1GzrdJ_q7HH8_OpXFCIkGo8vPKBc_OrOx-Ifh88vBx_8/edit?usp=sharing).
+
+For the data, visit here: 
+
+For the following issues,  visit [here](https://github.com/nolauren/TopicModeling_Mallet):
+- Not Enough Memory
+- Adjust Stopwords
