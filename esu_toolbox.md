@@ -274,7 +274,7 @@ bin/mallet import-dir --input amstudiestxt --output tutorial.mallet --keep-seque
 
 ./bin/mallet import-dir --input /users/username/database/ --output tutorial.mallet --keep-sequence --remove-stopwords
 
-bin\mallet train-topics  --input  
+bin/mallet train-topics  --input  
 
 ./bin/mallet import-dir --input  amstudiestxt --output tutorial.mallet --keep-sequence --remove-stopwords
 
