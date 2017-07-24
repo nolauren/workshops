@@ -264,3 +264,21 @@ For the data, visit here:
 For the following issues,  visit [here](https://github.com/nolauren/TopicModeling_Mallet):
 - Not Enough Memory
 - Adjust Stopwords
+
+
+Programming Historian for Mac:
+```
+bin/mallet import-dir --input sample-data/web/en --output tutorial.mallet --keep-sequence --remove-stopwords
+
+bin/mallet import-dir --input amstudiestxt --output tutorial.mallet --keep-sequence --remove-stopwords
+
+./bin/mallet import-dir --input /users/username/database/ --output tutorial.mallet --keep-sequence --remove-stopwords
+
+bin\mallet train-topics  --input  
+
+./bin/mallet import-dir --input  amstudiestxt --output tutorial.mallet --keep-sequence --remove-stopwords
+
+bin/mallet train-topics  --input tutorial.mallet
+
+bin/mallet train-topics  --input tutorial.mallet --num-topics 20 --output-state topic-state.gz --output-topic-keys tutorial_keys.txt --output-doc-topics tutorial_compostion.txt 
+```
