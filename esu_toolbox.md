@@ -77,50 +77,6 @@ Now you have choices:
  
 
 ----------------
-## Story Mapping (Storymap.js)
-
-Several broad categories of mapping (not exhaustive by any means!):
-
-1. Flexible interactive visualizations served over the web. Ex. CARTO (tool), [Photogrammar] (photogrammar.yale.edu) (project), and [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/) (project)
-
-2. Narrative mapping. Ex StoryMap.js and Odysessy (https://cartodb.github.io/odyssey.js/)
-
-3. Classic Cartography and Geographical Data (proprietary databases (vector and raster), georectifying, and geolocation) Ex. ArcGIS 
-
-4. Spatial Analysis such as building models of spatial processeslike the spread of diseases movement of people. Ex. python/r , ArcGIS
-
-
-Today, we are going to look at narrative mapping:  https://storymap.knightlab.com/
-
-
-### Getting Started
-
-We have two options: Classic or Gigapixel. We will use Classic. 
-
-So, let's make a storymap!
-
-Note: I always like to stop to think about the implications of using Google, particularly when working with students.
-
-
-To change the map, go to Options.
-
-To share your map, select the Share button on the top right corner. 
-
-Example StoryMap: https://uploads.knightlab.com/storymapjs/00d95891f556eb378e1fb8a1f6ec48ec/fwp/draft.html
-
-
-Limits of StoryMap:
-1. Have to pick a specific location. 
-2. Can only use media that is supported by the tool. 
-3. Only load one piece of media per slide.
-4. Best with visually rich media. 
-5. The data is locked into the tool.
-
-
-Others: [Neatline](http://neatline.org), [Odyssey](https://cartodb.github.io/odyssey.js/)
-
-
-### Customize Map
 
 
 ----------
@@ -282,3 +238,61 @@ bin/mallet train-topics  --input tutorial.mallet
 
 bin/mallet train-topics  --input tutorial.mallet --num-topics 20 --output-state topic-state.gz --output-topic-keys tutorial_keys.txt --output-doc-topics tutorial_compostion.txt 
 ```
+
+------------
+
+
+## Story Mapping (Storymap.js)
+
+Several broad categories of mapping (not exhaustive by any means!):
+
+1. Flexible interactive visualizations served over the web. Ex. CARTO (tool), [Photogrammar] (photogrammar.yale.edu) (project), and [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/) (project)
+
+2. Narrative mapping. Ex StoryMap.js and Odysessy (https://cartodb.github.io/odyssey.js/)
+
+3. Classic Cartography and Geographical Data (proprietary databases (vector and raster), georectifying, and geolocation) Ex. ArcGIS 
+
+4. Spatial Analysis such as building models of spatial processeslike the spread of diseases movement of people. Ex. python/r , ArcGIS
+
+
+Today, we are going to look at narrative mapping:  https://storymap.knightlab.com/
+
+
+### Getting Started
+
+We have two options: Classic or Gigapixel. We will use Classic. 
+
+So, let's make a storymap!
+
+Note: I always like to stop to think about the implications of using Google, particularly when working with students.
+
+
+To change the map, go to Options.
+
+To share your map, select the Share button on the top right corner. 
+
+Example StoryMap: https://uploads.knightlab.com/storymapjs/00d95891f556eb378e1fb8a1f6ec48ec/fwp/draft.html
+
+
+Limits of StoryMap:
+1. Have to pick a specific location. 
+2. Can only use media that is supported by the tool. 
+3. Only load one piece of media per slide.
+4. Best with visually rich media. 
+5. The data is locked into the tool.
+
+
+Others: [Neatline](http://neatline.org), [Odyssey](https://cartodb.github.io/odyssey.js/)
+
+
+### Customize Map
+
+
+## Carto
+
+We are going to work with [our movies from last week](https://docs.google.com/spreadsheets/d/19-UEPA-_0iU42nfhK5cpuZyZwXgwpm_FqNhBsSaI0sU/edit?usp=sharing). 
+
+We need to add geolocations. 
+
+
+
