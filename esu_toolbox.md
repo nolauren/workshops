@@ -241,8 +241,10 @@ bin/mallet train-topics  --input tutorial.mallet --num-topics 20 --output-state 
 
 ------------
 
+ 
+## Mapping
 
-## Story Mapping (Storymap.js)
+### Getting Started
 
 Several broad categories of mapping (not exhaustive by any means!):
 
@@ -250,15 +252,16 @@ Several broad categories of mapping (not exhaustive by any means!):
 
 2. Narrative mapping. Ex StoryMap.js and Odysessy (https://cartodb.github.io/odyssey.js/)
 
-3. Classic Cartography and Geographical Data (proprietary databases (vector and raster), georectifying, and geolocation) Ex. ArcGIS 
+3. Spatial Analysis such as building models of spatial processes like the spread of diseases based on the movement of people. Ex. python/r , ArcGIS
 
-4. Spatial Analysis such as building models of spatial processeslike the spread of diseases movement of people. Ex. python/r , ArcGIS
+They rely on Geographical Data (proprietary databases (vector and raster), georectifying, and geolocation) Ex. ArcGIS 
 
+
+
+#### (Storymap.js)
 
 Today, we are going to look at narrative mapping:  https://storymap.knightlab.com/
 
-
-### Getting Started
 
 We have two options: Classic or Gigapixel. We will use Classic. 
 
@@ -282,17 +285,120 @@ Limits of StoryMap:
 5. The data is locked into the tool.
 
 
-Others: [Neatline](http://neatline.org), [Odyssey](https://cartodb.github.io/odyssey.js/)
+Others: [Neatline](http://neatline.org), [Odyssey](https://cartodb.github.io/odyssey.js/), [StoryMap](https://storymaps.arcgis.com/en/)
 
 
-### Customize Map
+### CartoDB Tutorial
+
+CartoDB is a web-based tool for visalizing and analyzing
+small to medium sized spatial datasets. While ostensibly open-source
+software, it is quite difficult to compile yourself and much of
+the nice UI is actually proprietary. Fortunately, they offer a
+good free-tier of the service (no credit card needed; just an e-mail)
+which should suffice for the purposes of this tutorial.
+
+#### Set-Up Account
+Go to https://carto.com/signup/ and sign-up.
+I suggest using your @institutionname.edu account. It will give you access to an 
+education account, which comes with more options than a non-education account. 
+
+#### Getting Started
+
+Importing data to CartoDB is, in theory, very easy. Just drag
+and drop the file you want into the dashboard and you're done!
+
+Go to Maps -> Your Datasets. We can drag and drop in our data. 
+
+Let's work with [our movies](https://docs.google.com/spreadsheets/d/19-UEPA-_0iU42nfhK5cpuZyZwXgwpm_FqNhBsSaI0sU/edit?usp=sharing).
+
+Save As a .csv file.  
 
 
-## Carto
+#### Working with data in CartoDB
 
-We are going to work with [our movies from last week](https://docs.google.com/spreadsheets/d/19-UEPA-_0iU42nfhK5cpuZyZwXgwpm_FqNhBsSaI0sU/edit?usp=sharing). 
+The data view shows a tabular representation of the data we
+loaded into CartoDB. The program has already detected which
+columns correspond to latitude and longitude and has created
+variables called `the_geom`. This is a special data types that 
+tell CartoDB where each row should
+be mapped. There is also a column called `cartodb_id` with a
+unique identifier for each row; we will use this a bit in this
+tutorial, but it is particularly useful when integrating with
+PHP and Javascript. The data types for the columns from the csv
+file have also been automatically detected. Take note of these
+as they will be important later.
 
-We need to add geolocations. 
+#### Let's map.
+
+We will immediately see we have a problem signaled by the "!".
+
+What's the isssue?
+
+
+#### Georeferencing
+
+The new Carto builder now includes a georeferencer.
+
+Go to Analysis.
+- Input: Source is our .csv
+- Type: Countries
+- Parameters: Need to tell Carto which column in our spreadsheet to talk to.
+ 
+If you want to use a different georeferencer:
+
+Geoferecing tutorials:
+- [New York Public Library Map Warper](http://maps.nypl.org/warper/) (allows access to NYPL open digital map library, but only georeferencing their maps) 
+- [Map Warper](http://Mapwarper.net) (web-based application that allows you to upload public domain maps and serve XYZ layers to Carto)
+- [British Library Georeferencer](http://www.bl.uk/georeferencer/georeferencingmap.html)  (can visualize in OSM, side by side, Google Earth; can get an account and do your georeferencing here)
+
+Now we have our locations!
+
+Switching to the map view, we begin to see the benefits of using
+a tool like CartoDB. A reasonably nice map has been constructed
+out of the box from the data we imported. Zooming in and out,
+you'll notice that the map has discrete zoom levels. That's because
+the map is being created by a tile server, which serves rasterized
+tiles to the browser. 
+
+What's the difference between rastor and vector data?
+
+vector data model: [data models] A representation of the world using 
+points, lines, and polygons. Vector models are useful for storing data
+that has discrete boundaries, such as country borders, land parcels,
+and streets. - ESRI GIS Dictionary
+
+In other words, it is the acutal shapes. It is stored as points (x,y). 
+
+raster data model: [data models] A representation of the world as a 
+surface divided into a regular grid of cells. Raster models are useful 
+for storing data that varies continuously, as in an aerial photograph, 
+a satellite image, a surface of chemical concentrations,
+or an elevation surface. - ESRI GIS Dictionary
+
+In other words, it is a picture. It is stored as pixels. 
+(You can't do analytics on rastor data.)
+
+#### Data Analysis and Visualizations
+
+Builder provides "widgets" to subset and search  data geographically.
+
+Carto suggests widgets as well as let's your build them.
+
+Let's make a genre widget.
+
+Let's also make a widgit for budget. 
+
+Let's change our basemap.
+
+Add a legend.
+
+
+#### Final 
+
+To actually make this a map, you must save it. To do so, select "Share."
+
+ 
+
 
 
 
