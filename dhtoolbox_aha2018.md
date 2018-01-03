@@ -9,7 +9,12 @@ you a few tips on how to get your own data in shape.
 
 Preparation: Please bring an Internet-equipped laptop.
 
+-------------------
+
 ## Introductions
+
+-------------
+
 
 ## Timeline (Timeline.js) ⏰
 
@@ -87,7 +92,6 @@ build a quick timeline about the New Deal:
 Feel free to add other events as well.
 
 ------------
-## Mapping (Storymap.js) 🗺️
 
 
 ## Mapping (Storymap.js) 🗺️
@@ -156,17 +160,22 @@ Others: [Neatline](http://neatline.org), [Odyssey](https://cartodb.github.io/ody
 
 ### Create Your Own!
 
-
 ----------
 
-## Text Analysis with Voyant 📚
+
+## Text Analysis with Voyant 
 
 Let's define Text Analysis. Are you familiar with this method? How would you define it?
 
-For our corpus, we will explore the State of the Union addresses.  The State of the Union is delivered by the President of the United States annualy to a joint session of Congress. It is often a space where the President reflects on current issues and outlines goals for the nation. Therefore, it is a key document for understanding the ways the executive branch understands the current position of the country and their priorities. While today it is delivered oraly by the President, the State of the Union was initially a written document submitted to congress. In this workshop, we will use Voyant to identify issues and priorities.
+For our corpus, we will explore the State of the Union addresses.  The State of the Union is delivered by the President of the United States annualy to a joint session of Congress. 
+It is often a space where the President reflects on current issues and outlines goals for the nation. 
+Therefore, it is a key document for understanding the ways the executive branch understands the current position 
+of the country and their priorities. While today it is delivered oraly by the President, 
+the State of the Union was initially a written document submitted to congress. 
+In this lab, we will use Voyant to identify issues and priorities.
 
 
-We will be using Voyant:  a web-based text reading and analysis environment.
+We will be using [Voyant](https://voyant-tools.org/):  a web-based text reading and analysis environment.
 
 According to the Voyant Website <sup>[1](#myfootnote1)</sup>, we can do the folllowing:
 
@@ -180,15 +189,28 @@ According to the Voyant Website <sup>[1](#myfootnote1)</sup>, we can do the foll
 ### 2016 SOTU Speech
 We will start with Obama's final State of the Union address.  
 
-To begin, we will load in our text from a URL: http://programminghistorian.github.io/ph-submissions/assets/basic-text-processing-in-r/sotu_text/236.txt
+To begin, we will load in our text from [here](http://programminghistorian.github.io/ph-submissions/assets/basic-text-processing-in-r/sotu_text/236.txt).
+
+Let's take a look at the speech. 
+- What kind of file is this?  
+- What does the format of this file tell us about one way that Voyant needs text to be structured to process it?
+
+We can load data into Voyant three ways. 
+
+1. Use the URL
+2. Copy and paste the text into the box. 
+3. Upload a file.
+
 
 Now let's take a look at the kinds of text analysis used by Voyant!
 
-#### Cirrus -  Terms - Links Part 1
+#### Cirrus -  Terms - Links 
 
-Cirrus:  Provides a word cloud of the most frequence terms. You can hover over the word to see the number of times it is used. 
+Cirrus:  Provides a word cloud of the most frequent terms. You can hover over the word to see the number of times it is used. 
 
--  Is this what you expected? Are there any words you would have expected that aren't included? Any words you think should be removed?
+- Are these the words we expected?
+- Are there any words we would have expected that aren't included? 
+- Are there any words we think should be removed?
 
 
 #### Stop Words 
@@ -210,7 +232,7 @@ Let's add: "that's" and "it's".
 
 
 
-#### Cirrus -  Terms - Links Part 2
+#### Cirrus -  Terms - Links
 
 Cirrus: Now we have a new word cloud!
 
@@ -221,15 +243,17 @@ Links: Provides a collocates graph shows a network graph of higher frequency ter
 Let's click on "America." Let's take a look at the Reader in the panel to the right. 
 - What changed?
 
-Now let's take a look at Trends in the panel furthest to the right. The default is Raw Frequencies. Let's change to Relative Frequenices. This isn't as helpful with one document but will be when we are analyzing more than one at a time. 
+Now let's take a look at Trends in the panel furthest to the right. The default is Raw Frequencies. 
 
-Now let's go back Links and double click on "America". 
+Let's change to Relative Frequenices. (This isn't as helpful with one document but will be when we are analyzing more than one at a time.)
+
+Now let's go back to Links and double click on "America". 
 
 - What changed?
 
 #### Contexts - Bubblelines 
 
-Contexts: Puts a term in context. ;)
+Contexts: Puts a term in context.
 
 Bubblelines: A visualization of the term frequency in the document. 
 
@@ -253,11 +277,13 @@ Pair up and take a few minutes to explore.
 Let's now take a look at George Washington vs President Obama's SOTU addressess.
 
 
-Download the corpus to your Downloads Folder: https://drive.google.com/open?id=0B6zkbDdW8bzIQnpQX2NQbVFYQjg
+[Download the corpus](https://drive.google.com/open?id=0B6zkbDdW8bzIQnpQX2NQbVFYQjg) to your Downloads Folder. 
 
 Unzip the file.
 
-Go to https://voyant-tools.org/ and select "Upload".  The speechs are named according to year. Make sure the files are in numerical order for this determines how Voyant loads them in.  Now, let's explore!
+Go to [Voyant](https://voyant-tools.org/) and select "Upload".  
+The speechs are named according to year. 
+Make sure the files are in numerical order for this determines how Voyant loads them in.  Now, let's explore!
 
 To begin, take a look at Cirrus. 
 - Do we want to remove any stop words? If so, why?
@@ -268,7 +294,9 @@ Let's remove them.
 
 - Can we learn anything from this? Document Length? Vocabulary Density? 
 
-We also have a new option - Distinctive Words. Voyant uses Term Frequency-Inverse Document Frequency to weigh how important a word is in the document or corpus. Let's take a look at the terms used by Washington and Obama. 
+We also have a new option - Distinctive Words. 
+Voyant uses Term Frequency-Inverse Document Frequency to weigh how important a word is in the document or corpus. 
+Let's take a look at the terms used by Washington and Obama. 
 
 - Are there any themes we can see in these speeches? By presidency? 
 
@@ -276,14 +304,6 @@ We also have a new option - Distinctive Words. Voyant uses Term Frequency-Invers
 
 ##### Explore!
 
+Interested in looking at all of the State of the Union addresses? Here you [go](https://programminghistorian.org/assets/basic-text-processing-in-r/sotu_text.zip)! 
 
-### Resources
-
-- Programming Historian: http://programminghistorian.org/
-- Historian Macroscope: http://www.themacroscope.org/2.0/
-- Humanites Data in R: http://www.humanitiesdata.org
-
-
-<a name="myfootnote1">1</a>: See https://voyant-tools.org/docs/#!/guide/about
-
-
+If you are interested in how to work with the State of the Union addressed with the R programming language, see [my tutorial](https://programminghistorian.org/lessons/basic-text-processing-in-r) with Taylor Arnold on Programming Historian. 
