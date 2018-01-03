@@ -121,23 +121,27 @@ The storymap is comprised of a series of slides with a spatial component. It wor
 - Headline: From Selma to Montgomery
 - Text:  Held in 1965,  three marches were organized to highlight the continuation of racial injustice. The violence and murder commmited by white supremacists during the marches led to national outrage. Credited with leading to the passage of the Voting Rights Act of 1965, the events were a critical part of the long struggle for civil rights and the fight to racial oppression.
 - Media: Holding Hands (Credit: Getty Images)
+- Location: Selma
 
 2. Slide 2 - Murder of Jimmie Lee Jackson
 - Headline: February 26, 1965: Jimmie Lee Jackson murdered by James Fowler, an Alabama State Trooper. In response, James Bevel and fellow civil rights activists organize a march from Selma to Montgomery. 
 - Media: (Image of Funeral)[http://assets.nydailynews.com/polopoly_fs/1.2099215.1422767566!/img/httpImage/image.jpg_gen/derivatives/article_750/cold-cases.jpg] (Credit: NY Daily News)
+- Marion, Alabama
 
 3. Slide 3 - Bloody Sunday
 - Headline: March 7, 1965: The first march turned quickly violent when state troopers attacked the unarmed marchers. The day became known as Bloody Sunday.
 - Media: https://www.youtube.com/watch?v=BFhcR362RyE
+- Location: Right across the bridge 
 
 4. Slide 4 - A Photo Elicits National Outrage
 - Headline: March 7, 1965: The event received national attention spurred by a photo of Amelia Boynton's unconscious body. 
 - Media: https://library.duke.edu/digitalcollections/snccdigitalgateway/selma6.jpg (Credit: SNCC Digital)
+- Location: Edmund Pettus Bridge
 
-
-5. Slide 5 - Second March
+5. Slide 5 - Turn Around Tuesday
 - Headline: March 9, 1965: The second march resulted in a confrontation between marchers led by Martin Luther King and state law enforcement. While the march ended peacefully, white segregationists murdered James Reeb, a white civil rights activist, later that evening. The event further spurred national uproar.
 - Media: Find a piece of your choice. 
+- Location: Green St at Water Ave
 
 6. Slide 6 - Pick an event. 
 
