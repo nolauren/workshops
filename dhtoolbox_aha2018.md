@@ -1,4 +1,4 @@
-# Digital History Toolbox
+# Digital History Toolbox 🛠️
 American Historical Association 2018 |  Washington D.C.
 
 This session is an all-encompassing look at incorporating entry-level tools for text mining, 
@@ -9,27 +9,19 @@ you a few tips on how to get your own data in shape.
 
 Preparation: Please bring an Internet-equipped laptop.
 
-
-
- 
-
-
 ## Introductions
- 
-
 
 ## Timeline (Timeline.js)
 
 ### Set Up
 
 Because the tool uses Google products, a [gmail account](https://accounts.google.com/SignUp?hl=en) is required. 
-Institutional email using gmail will work even if it ends with "@NAMEOFINSTITUTION.edu".
+Institutional email using gmail will work even if it ends with "@NAMEOFINSTITUTION.edu". To set up a timeline
+on Timeline.js, following these steps:
 
-Go to: [Timeline.js](https://timeline.knightlab.com/)
-
-Select "Make A Timeline".  
-
-Select "Use this template".
+1. Go to: [Timeline.js](https://timeline.knightlab.com/)
+2. Select "Make A Timeline".  
+3. Select "Use this template".
 
 ### Data
 
@@ -47,20 +39,13 @@ Here we see a timeline developed by students in my Documenting 1960s America Cla
 - YouTube: Once a video is chosen, select "SHARE". A link will appear. "Copy" this link and paste into the spreadshhet. 
 - New columns can be added at the end but they will not appear on the timline. 
 
-
-
-
 Collaborate: If you want to collaborate, select "Share" on the top right of the spreadsheet. 
 
 ### Publish
 
-Once you are finished, go to File -> Publish to the Web -> Publish 
-
-Copy the URL in the browser.
-
-Go back to [Timeline.js - Make A Timline](https://timeline.knightlab.com/).
-Scroll down to Step 3.
-Paste the google sheets URL.
+Once you are finished, go to File -> Publish to the Web -> Publish. Next, copy the URL in the
+browser. Go back to [Timeline.js - Make A Timline](https://timeline.knightlab.com/). Scroll
+down to Step 3. Paste the google sheets URL.
 
 ![ ](https://github.com/nolauren/link/blob/master/timelinejs_step3.png)
 
@@ -78,23 +63,22 @@ Timelines can be embedded on a website or linked to directly.
 
 ### Try it out! 
 
+If you are looking for other events to add to the timeline, here are links to
+build a quick timeline about the New Deal:
 
-#### New Deal Sample Data
+- New Deal Events: http://xroads.virginia.edu/~MA02/volpe/newdeal/timeline_text.html
 
-New Deal Events: http://xroads.virginia.edu/~MA02/volpe/newdeal/timeline_text.html
+- FDR 1932 Democratic Convention: https://www.youtube.com/watch?v=6Ht6cJqgC6o
 
-FDR 1932 Democratic Convention: https://www.youtube.com/watch?v=6Ht6cJqgC6o
+- FDR Election: http://depts.washington.edu/depress/images/fdr_1932_seattle_420.jpg
 
-FDR Election: http://depts.washington.edu/depress/images/fdr_1932_seattle_420.jpg
+- Fireside Chat: https://www.youtube.com/watch?v=z9CBpbuV3ok
 
-Fireside Chat: https://www.youtube.com/watch?v=z9CBpbuV3ok
+- CCC Poster: https://upload.wikimedia.org/wikipedia/commons/b/b2/CCC-poster-1935.jpg
 
-CCC Poster: https://upload.wikimedia.org/wikipedia/commons/b/b2/CCC-poster-1935.jpg
+- TVA Logo: http://www.sourcewatch.org/images/thumb/c/cf/TVA.jpg/170px-TVA.jpg (Timeline.js doesn't support .svg)
 
-TVA Logo: http://www.sourcewatch.org/images/thumb/c/cf/TVA.jpg/170px-TVA.jpg (Timeline.js doesn't support .svg)
-
-Others Toolks: [TikiToki](http://www.tiki-toki.com/) 
-
+Feel free to add other events as well.
 
 ------------
 ## Mapping (Storymap.js)
