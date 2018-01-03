@@ -11,7 +11,7 @@ Preparation: Please bring an Internet-equipped laptop.
 
 ## Introductions
 
-## Timeline (Timeline.js)
+## Timeline (Timeline.js) ⏰
 
 ### Set Up
 
@@ -81,7 +81,7 @@ build a quick timeline about the New Deal:
 Feel free to add other events as well.
 
 ------------
-## Mapping (Storymap.js)
+## Mapping (Storymap.js) 🗺️
 
 Several broad categories of mapping (not exhaustive by any means!):
 
@@ -129,7 +129,7 @@ Others: [Neatline](http://neatline.org), [Odyssey](https://cartodb.github.io/ody
 
 ----------
 
-## Text Analysis with Voyant 
+## Text Analysis with Voyant 📚
 
 Let's define Text Analysis. Are you familiar with this method? How would you define it?
 
