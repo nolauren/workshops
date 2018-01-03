@@ -31,6 +31,12 @@ This is the structure that this tool requires in order to work.
 Let's look at [an example](https://docs.google.com/spreadsheets/d/1ORRtnJBGXcMO7cbkLRz4abijVPNMYWdH6tqXrxDxnWg/edit?usp=sharing).
 Here we see a timeline developed by students in my Documenting 1960s America Class. 
 
+And we have some issues! Let's take a look at:
+- 4: Blank
+- 45: Vietnam War (Link/ Multiple Photos Issue)
+- 46: The Other America (Link/ Google Images)
+- 54: Tet Offensive (Link/ No Link)
+
 *Strategies/ Challenges:*
 - Spelling!
 - Blanks means no data.
@@ -105,7 +111,7 @@ Today, we are going to explore narrative mapping by focusing on another Knight F
 
 Like Timeline.js, this tool requires the use of Google. After logging in with Google, we are given two map options: Classic or Gigapixel. While the [Gigapixel](https://storymap.knightlab.com/gigapixel/) map is definitely worth exploring, it requires hosting a set of images on a web server.  It also needs relatively large files. For today, we will use Classic.  So, let's make a storymap!
 
-The storymap is comprised of a series of slides with a spatial component. Let's walk through the first slide.
+The storymap is comprised of a series of slides with a spatial component. It words best when the number of slides doesn't exceed ~20 and the story is relatively contained.  Let's walk through the first slide and then an example.
 
 1. Slide 1 - Title
 - Headline: From Selma to Montgomery
