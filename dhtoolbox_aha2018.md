@@ -314,8 +314,4 @@ If you are interested in how to work with the State of the Union addressed with 
 
 
 
----------
 
-Other tools:
-- [Palladio](http://hdlab.stanford.edu/palladio/)
-- [Neatline](http://neatline.org/)
