@@ -311,3 +311,11 @@ Let's take a look at the terms used by Washington and Obama.
 Interested in looking at all of the State of the Union addresses? Here you [go](https://programminghistorian.org/assets/basic-text-processing-in-r/sotu_text.zip)! 
 
 If you are interested in how to work with the State of the Union addressed with the R programming language, see [my tutorial](https://programminghistorian.org/lessons/basic-text-processing-in-r) with Taylor Arnold on Programming Historian. 
+
+
+
+---------
+
+Other tools:
+- [Palladio](http://hdlab.stanford.edu/palladio/)
+- [Neatline](http://neatline.org/)
