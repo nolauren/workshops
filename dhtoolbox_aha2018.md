@@ -100,7 +100,7 @@ Feel free to add other events as well.
 
 There is an expansive set of approachs and tools for mapping. The fields of geography and cartography offer many important methods and critiques to draw on when engaging in spatial analysis and mapping. Richard White's work is an exciting and necessary [read](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29) for historians. While by no means exhaustive, I find it helpful to think about this area of inquiry as charachterized by several broad categories:
 
-1. Interactive Mapping: Flexible interactive visualizations served over the web. Platforms include [CARTO](https://carto.com/) and [MapBox](https://www.mapbox.com/).  DH Projects like [Photogrammar] (http://photogrammar.yale.edu) (project) and [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/) use Carto.
+1. Interactive Mapping: Flexible interactive visualizations served over the web. Platforms include [CARTO](https://carto.com/) and [MapBox](https://www.mapbox.com/).  DH Projects like [Photogrammar](http://photogrammar.yale.edu) (project) and [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/) use Carto.
 
 2. Narrative Mapping: Maps used to tell a story. They tend to support primarily linear story telling.  Platforms include StoryMap.js, [Odysessy](https://cartodb.github.io/odyssey.js/), [ESRI Story Maps](https://storymaps.arcgis.com/en/). An exampls is [Renewing Inequality](http://dsl.richmond.edu/panorama/renewal/).
 
