@@ -60,11 +60,11 @@ Once you are finished, go to File -> Publish to the Web -> Publish. Next, copy t
 browser. Go back to [Timeline.js - Make A Timline](https://timeline.knightlab.com/). Scroll
 down to Step 3. Paste the google sheets URL.
 
-![ ](https://github.com/nolauren/link/blob/master/timelinejs_step3.png)
+![ ](https://github.com/nolauren/workshops/blob/master/img/timelinejs_step3.png)
 
 Once copied, select Preview. 
 
-![ ](https://github.com/nolauren/link/blob/master/timelinejs_preview.png)
+![ ](https://github.com/nolauren/workshops/blob/master/img/timelinejs_preview.png)
 
 Timelines can be embedded on a website or linked to directly. 
 
