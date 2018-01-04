@@ -42,7 +42,7 @@ And we have some issues! Let's take a look at:
 - 46: The Other America (Link/ Google Images)
 - 54: Tet Offensive (Link/ No Link)
 
-Can view link: https://docs.google.com/spreadsheets/d/1ORRtnJBGXcMO7cbkLRz4abijVPNMYWdH6tqXrxDxnWg/edit#gid=0
+Can view link: https://docs.google.com/spreadsheets/d/1ORRtnJBGXcMO7cbkLRz4abijVPNMYWdH6tqXrxDxnWg/edit?usp=sharing
 
 *Strategies/ Challenges:*
 - Spelling!
