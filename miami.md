@@ -1,25 +1,27 @@
 # Mapping
 
+## 
+
+- If I'm moving too fast, please let me know! 
+- Please don't touch another person's computer (unless absolutely necessary). 
+- Questions? Please ask! 
+
 ## Getting Started
 
 Several broad categories of mapping (not exhaustive by any means!):
 
-1. Flexible interactive visualizations served over the web. Ex. CARTO (tool), [Photogrammar] (photogrammar.yale.edu) (project), and [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/) (project)
+1. (Interactive) Visualizations: Flexible interactive visualizations served over the web. Ex. CARTO (tool), [Photogrammar] (photogrammar.yale.edu) (project), and [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/) (project)
 
-2. Narrative mapping. Ex StoryMap.js and Odysessy (https://cartodb.github.io/odyssey.js/)
+2. Narrative mapping: Maps that tell a story, often in a linear way. Ex StoryMap.js, ESRI StoryMaps 
 
-3. Spatial Analysis such as building models of spatial processes like the spread of diseases based on the movement of people. Ex. python/r , ArcGIS
-
-They rely on Geographical Data (proprietary databases (vector and raster), georectifying, and geolocation) Ex. ArcGIS 
-
-
+3. Spatial Analysis: Platforms for computational spatial analysis such as building models of spatial processes like the spread of diseases based on the movement of people. Often rely on geographical data from (proprietary) databases (vector and raster). Also often necessary for georectifying historic maps. Ex. ArcGIS 
 
 
 
 
 ## CartoDB Tutorial
 
-CartoDB is a web-based tool for visalizing and analyzing
+CartoDB is a web-based tool for visualizing and analyzing
 small to medium sized spatial datasets. While ostensibly open-source
 software, it is quite difficult to compile yourself and much of
 the nice UI is actually proprietary. Fortunately, they offer a
@@ -35,18 +37,18 @@ They review applications every month.
 
 ### Data
 
+Let's get [some data](https://github.com/nolauren/workshops/blob/master/data/photogrammar_all.bz2)!
 
-
-Let's take a look at the data. Each row is a photo. Each column is an observation about the photo. Several aspects of this data:
-- Make sure everything it types the same. For exampe, "Alfred T. Palmer" is always typed this way. 
+Now, let's take a look at the data. Each row is a photo. 
+Each column is an observation about the photo. Several aspects of this data:
+- Make sure everything is typed the same. For exampe, "Alfred T. Palmer" should be consistent. Not "Alfred Palmer". 
 - If we google a cnumber, it will correspond to the LOC call number.  When working with an archive/collection, consider keeping the collection's unique identifying information.   
-- We used "NA" when we didn't know a value. Often people just keep the cell blank. We did this so we knew what we had checked. 
+- We used "NA" when we didn't know a value. Often people just keep the cell blank. We did this so we knew what we had checked.
+- You can change the data type. This can be important for different functions. Ex. Staff Photographer? True or False.
 
 For mapping, the most important are the columns about location information. 
 When we first had this state, we only had City, County, and State. 
-So let's start by looking at how Carto can help us get the longitude and latitude. 
-
-
+We added longitude and latitude. Carto now has a tool for doing this automatically. 
 
  
 
@@ -122,10 +124,22 @@ Let's make our map points with an appropriate pop-up. Then, we can add widgets!
 
 Widgets are a way to add additional interactivity to the map.  Click on the pencil on the far left menu ("Edit Map"). Then select Widgets-> +Add New Widget.
 
+There will be options based on your metadata. Let's choose "pname" and "year". We can then customize these two widgets.
 
+Let's:
+- Change the name of the table.
+- Give each photographer a color. 
 
 
 #### Publish 
+
+Now that we have our widgets, let's publish.  We can do by clicking "Publish" in the Edit Map menu. 
+
+Copy the link and open it in a new window. What do you see? You can share this link and share your map!
+
+If you want to embed the map, you can do so using the generated iframe. 
+
+ 
 
 
 
