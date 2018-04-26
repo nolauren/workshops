@@ -1,6 +1,6 @@
 # Mapping
 
-## 
+## Ground "Rules"
 
 - If I'm moving too fast, please let me know! 
 - Please don't touch another person's computer (unless absolutely necessary). 
@@ -38,6 +38,8 @@ They review applications every month.
 ### Data
 
 Let's get [some data](https://github.com/nolauren/workshops/blob/master/data/photogrammar_all.bz2)!
+Once downloaded, unzip and open.  
+
 
 Now, let's take a look at the data. Each row is a photo. 
 Each column is an observation about the photo. Several aspects of this data:
@@ -72,11 +74,9 @@ The screen will shift to a map interface. This is called "Carto Builder".
 
 ### Carto Builder
 
-There are two main ways CartoBuilder is organized: Layers and Widgets. Along with these options, 
+There are two main ways CartoBuilder is organized: Layers and Widgets.  
 
-
-
-Switching to the map view, we begin to see the benefits of using a tool like CartoDB. A reasonably nice map has been constructed out of the box from the data we imported. Zooming in and out, you'll notice that the map has discrete zoom levels. That's because the map is being created by a tile server, which serves rasterized tiles to the browser.
+Switching to the map view, we begin to see the benefits of using a tool like Carto. A reasonably nice map has been constructed out of the box from the data we imported. Zooming in and out, you'll notice that the map has discrete zoom levels. That's because the map is being created by a tile server, which serves rasterized tiles to the browser.
 
 What's the difference between rastor and vector data?
 
@@ -86,9 +86,7 @@ In other words, it is the acutal shapes. It is stored as points (x,y).
 
 raster data model: [data models] A representation of the world as a surface divided into a regular grid of cells. Raster models are useful for storing data that varies continuously, as in an aerial photograph, a satellite image, a surface of chemical concentrations, or an elevation surface. - ESRI GIS Dictionary
 
-In other words, it is a picture. It is stored as pixels. (You can't do analytics on rastor data.)
-
-
+In other words, it is a picture. It is stored as pixels. You can't do analytics on rastor data. Raster data is common for web-based visualizations. 
 
 
 
@@ -112,7 +110,6 @@ Points: They are great, but you need to be careful when the actual location isn'
 Hexbin: They can be very helpful for this  with point data. It suggests the general area but doesn't visually suggest we know the exact location. It also helps show photo counts. One thing I don't like about Carto is their default color ramp suggests the lighter the color, the more photos there are.  Visually, we tend to associate darkness with a higher count, so I'd switch the ramp. We can do that by going to color. One thing to keep in mind those who may be color blind. I find [this tool](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) very helfpul. You will notice that this is the same color ramp we use for Photogrammar. Let's pick this green color ramp under Style in Carto.
 
 - Heatmap: It can be great! Just not for this data set.
-
 
 - Legend: You can add aspects as necessary for your project. To rename the Title, we have to reame the layer.
 
