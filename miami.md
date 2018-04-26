@@ -49,24 +49,24 @@ Each column is an observation about the photo. Several aspects of this data:
 - You can change the data type. This can be important for different functions. Ex. Staff Photographer? True or False.
 
 For mapping, the most important are the columns about location information. 
-When we first had this state, we only had City, County, and State. 
-We added longitude and latitude. Carto now has a tool for doing this automatically. 
+When we first had this data, we only had City, County, and State. 
+We added longitude and latitude. Carto now has a (fickle) tool for doing this automatically. 
 
  
 
 ### Uploading Data
 
-Importing data to CartoDB is, in theory, very easy. Just drag
-and drop the file you want into the dashboard and you're done!
+To import data into CartoDB, drag and drop the file you want into the dashboard.
 
 Go to New Map -> Add Datasets -> Connect Dataset.
 
-We are going to upload the dataset: photo_dataset_all_raw.csv
+We are going to upload the unzipped dataset: photo_dataset_all_raw.csv
 
 
-Once the data is loaded, a pop-up will appear on the bottom left that will show you the data. This will only appear once. 
-To get back to the data, go to the top left of the screen. There you will see the Carto logo, your username, and Maps. Click on Maps -> Your datasets. 
-
+Once the data is loaded, a pop-up will appear on the bottom left that will 
+ask if you want to see the data. This will only appear once. 
+To get back to the data, go to the top left of the screen. 
+There you will see the Carto logo, your username, and Maps. Click on Maps -> Your datasets. 
 
 The screen will shift to a map interface. This is called "Carto Builder". 
 
@@ -92,13 +92,13 @@ In other words, it is a picture. It is stored as pixels. You can't do analytics 
 
 #### Base Map
 
-We can change the base map. Carto offers several options. The Voyager style offers several different colors and varying degrees of detail. For example, Positronh has city and state labels while Positron (LITE) does not. Voyager is a slighlty different color as well as includes major highways. The color will depend on the mood you are trying to convey.  Base map needs will also depend on the time period being mapped. Particularly for Photogrammar, we would not want to use the Here map collection. It would be ahistorical. Also, place names are not value neutral. For example, if one were mapping indigenous communities, which place names to use is a major issue to consider. If you want to add your own map, Mapbox is an option. This will require turning a map into raster data to then upload. One option is to use the open source [QGIS](https://www.qgistutorials.com/en/docs/georeferencing_basics.html). Programming Historian also offers [a tutorial](https://programminghistorian.org/lessons/geocoding-qgis). 
+We can change the base map. Carto offers several options. The Voyager style offers several different colors and varying degrees of detail. For example, Positron has city and state labels while Positron (LITE) does not. Voyager is a slighlty different color as well as includes major highways. The color will depend on the mood you are trying to convey.  Base map needs will also depend on the time period being mapped. Particularly for Photogrammar, we would not want to use the Here map collection. It would be ahistorical. Also, place names are not value neutral. For example, if one were mapping indigenous communities, which place names to use is a major issue to consider. If you want to add your own map, Mapbox is an option. This will require turning a map into raster data to then upload. One option is to use the open source [QGIS](https://www.qgistutorials.com/en/docs/georeferencing_basics.html). Programming Historian also offers [a tutorial](https://programminghistorian.org/lessons/geocoding-qgis). 
 
 
 
 #### Layers - Visualizations/ Style
 
-Click on Layers. By default, our data is the first layer. We will primarily work with this layer during the workshop. If we wanted to layer the map wtih additional data, all we would need to add a new layer. 
+Click on Layers. By default, our data is the first layer. We will primarily work with this layer during the workshop. If we wanted to layer the map wtih additional data, all we would need to add is a new layer. 
 
 Let's explore our default layer. Click on "photo_dataset_all_raw" -> Style  
 
@@ -107,7 +107,7 @@ Points: They are great, but you need to be careful when the actual location isn'
 
  
 
-Hexbin: They can be very helpful for this  with point data. It suggests the general area but doesn't visually suggest we know the exact location. It also helps show photo counts. One thing I don't like about Carto is their default color ramp suggests the lighter the color, the more photos there are.  Visually, we tend to associate darkness with a higher count, so I'd switch the ramp. We can do that by going to color. One thing to keep in mind those who may be color blind. I find [this tool](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) very helfpul. You will notice that this is the same color ramp we use for Photogrammar. Let's pick this green color ramp under Style in Carto.
+Hexbin: It suggests the general area but doesn't visually suggest we know the exact location. It also helps show photo counts. One thing I don't like about Carto is their default color ramp; the lighter the color, the more photos there are.  Visually, we tend to associate darkness with a higher count, so I'd switch the ramp. We can do that by going to color. One thing to keep in mind is those who may be color blind. I find [this tool](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) very helpful. You will notice that this is the same color ramp we use for Photogrammar. Let's pick this green color ramp under Style in Carto.
 
 - Heatmap: It can be great! Just not for this data set.
 
