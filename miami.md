@@ -37,7 +37,7 @@ They review applications every month.
 
 ### Data
 
-Let's get [some data](https://github.com/nolauren/workshops/blob/master/data/photogrammar_all.bz2)!
+Let's get [some data](https://github.com/nolauren/workshops/blob/master/data/photogrammar_all2.zip)!
 Once downloaded, unzip and open.  
 
 
