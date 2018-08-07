@@ -1,7 +1,7 @@
 
 ## University of Richmond DH Pedagogy Seminar
 
-Fall 2018
+August 20-21, 2018
 
 ### **Leaders**
 
