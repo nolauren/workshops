@@ -43,7 +43,8 @@ Time | Monday
   8:30 - 9:00    | Breakfast
   9:00 - 10:00   | Introductions / A Humanist Mindset
   10:00 -10:15   | Coffee Break
-  10:15 - Noon   | Lecture: Digital Humanities Pedagogy & Workshop: Assessing a DH Assignment
+  10:15 - 11:15  | Lecture: Digital Humanities Pedagogy
+  11:15 - Noon   | Workshop: Assessing a DH Assignment
   Noon - 1:00    | Lunch
   1:00 - 1:45    | Analyzing DH Projects
   1:45 - 2:45    | Workshop: Omeka
