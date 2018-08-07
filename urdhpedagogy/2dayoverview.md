@@ -4,10 +4,10 @@ Fall 2018
 
 **Leaders**
 
-Crystal Hall, Associate Professor in the Digital Humanities, Bowdoin
+- Crystal Hall, Associate Professor in the Digital Humanities, Bowdoin
 College
 
-Lauren Tilton, Rhetoric and Communication Studies
+- Lauren Tilton, Rhetoric and Communication Studies
 
 **Participants**
 
@@ -37,31 +37,34 @@ Lauren Tilton, Rhetoric and Communication Studies
 
 **Monday**
 
-  8:30 - 9:00    Breakfast
-  -------------- ----------------------------------------------------------------------------
-  9:00 - 10:00   Introductions / A Humanist Mindset
-  10:00 -10:15   Coffee Break
-  10:15 - Noon   Lecture: Digital Humanities Pedagogy & Workshop: Assessing a DH Assignment
-  Noon - 1:00    Lunch
-  1:00 - 1:45    Analyzing DH Projects
-  1:45 - 2:45    Workshop: Omeka
-  2:45 - 3:00    Coffee
-  3:00 - 3:45    Analyzing DH Projects
-  3:45 - 4:45    Workshop: StoryMaps.js and Timeline.js
-  4:45 - 5:00    Reflection
-  5:00           Happy Hour
+Time | Monday
+ --- | --- 
+  8:30 - 9:00    | Breakfast
+  9:00 - 10:00   | Introductions / A Humanist Mindset
+  10:00 -10:15   | Coffee Break
+  10:15 - Noon   | Lecture: Digital Humanities Pedagogy & Workshop: Assessing a DH Assignment
+  Noon - 1:00    | Lunch
+  1:00 - 1:45    | Analyzing DH Projects
+  1:45 - 2:45    | Workshop: Omeka
+  2:45 - 3:00    | Coffee
+  3:00 - 3:45    | Analyzing DH Projects
+  3:45 - 4:45    | Workshop: StoryMaps.js and Timeline.js
+  4:45 - 5:00    | Reflection
+  5:00           | Happy Hour
 
 **Tuesday**
 
-  8:30 - 9:00     Breakfast
-  --------------- --------------------------------------------
-  9:00 - 9:30     Analyzing DH Projects
-  9:30 - 10:30    Workshop: Carto
-  10:30 - 10:45   Coffee Break
-  10:45 - 11:45   DH Values and Collaborators Bill of Rights
-  11:45 - 12:30   Lunch
-  12:30 - 1:30    Workshop: Draft an Assignment
-  1:30 - 2:00     Debrief
+
+Time | Tuesday
+ --- | --- 
+  8:30 - 9:00    | Breakfast
+  9:00 - 9:30    |  Analyzing DH Projects
+  9:30 - 10:30   | Workshop: Carto
+  10:30 - 10:45  |  Coffee Break
+  10:45 - 11:45  |  DH Values and Collaborators Bill of Rights
+  11:45 - 12:30  |  Lunch
+  12:30 - 1:30   |  Workshop: Draft an Assignment
+  1:30 - 2:00    |  Debrief
 
 **Required Readings:**
 
