@@ -1,15 +1,16 @@
-University of Richmond DH Pedagogy Seminar
+
+## University of Richmond DH Pedagogy Seminar
 
 Fall 2018
 
-**Leaders**
+### **Leaders**
 
 - Crystal Hall, Associate Professor in the Digital Humanities, Bowdoin
 College
 
 - Lauren Tilton, Rhetoric and Communication Studies
 
-**Participants**
+### **Participants**
 
 -   Paul Achter, Rhetoric and Communication Studies
 
@@ -35,7 +36,7 @@ College
 
 -   Caroline Weist, Languages, Literatures, and Cultures (German)
 
-**Monday**
+### Schedule
 
 Time | Monday
  --- | --- 
@@ -52,8 +53,6 @@ Time | Monday
   4:45 - 5:00    | Reflection
   5:00           | Happy Hour
 
-**Tuesday**
-
 
 Time | Tuesday
  --- | --- 
@@ -66,7 +65,7 @@ Time | Tuesday
   12:30 - 1:30   |  Workshop: Draft an Assignment
   1:30 - 2:00    |  Debrief
 
-**Required Readings:**
+### **Required Readings:**
 
 -   Fitzpatrick, Kathleen. [The Humanities, Done Digitally.](http://dhdebates.gc.cuny.edu/debates/text/30) *Debates in the Digital Humanities* *2012*. University of Minnesota Press, 2012.
 
