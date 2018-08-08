@@ -28,7 +28,7 @@ College
 
 -   Nicole Sackley, History and American Studies
 
--   Nabeel Saddiqui,
+-   Nabeel Saddiqui, Academic Technology Consultant (Humanities)
 
 -   Agnieszka Szymanska, Art History
 
