@@ -203,7 +203,7 @@ the graphic (With Self).
 Select 'Preview' and a series of setting will appear on the left side. If you don't see a graph, click 'Refresh' at the bottom of the menu. There a lot of options to explore! 
 
 
-#Related Readings
+### Related Readings
 
 Cordell, Ryan, “Uncovering Reprinting Networks in Nineteenth-Century American Periodicals.” Am Lit Hist (Fall 2015) 27 (3): 417–445. [Viral Texts Project at Northeastern] (http://viraltexts.org/) and [Networks of Viral Texts](http://networks.viraltexts.org/)
 
@@ -216,3 +216,7 @@ Moretti, Franco. [Network Theory, Plot Analysis.](https://litlab.stanford.edu/Li
 Weingart, Scott. [“Topic Modeling and Network Analysis.”](http://www.scottbot.net/HIAL/?p=221) The scottbot irregular.
 
 Weingart, Scott. [“Contextualizing networks with maps.”](http://www.scottbot.net/HIAL/?p=1942) The scottbot irregular.
+
+### Slide Decks
+
+[Abridged Networks Slide Deck, Developed by Scott Weingart](https://github.com/nolauren/workshops/blob/master/pdfs/Networks_socscibootcamp.pdf)
