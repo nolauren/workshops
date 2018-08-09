@@ -52,7 +52,7 @@ Time | Monday
   3:00 - 3:45    | Analyzing DH Projects
   3:45 - 4:45    | Workshop: StoryMaps.js and Timeline.js
   4:45 - 5:00    | Reflection
-  5:00           | Happy Hour
+  5:00           | Happy Hour (Optional)
 
 
 Time | Tuesday
