@@ -1,4 +1,4 @@
-## Dates
+## Schedule
 
 ### August 20-21: DH Pedagogy Seminar
 
