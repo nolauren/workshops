@@ -59,7 +59,7 @@ Time | Tuesday
  --- | --- 
   8:30 - 9:00    | Breakfast
   9:00 - 9:30    |  Analyzing DH Projects
-  9:30 - 10:30   | Workshop: Carto
+  9:30 - 10:30   | Workshop: Esri Storymaps
   10:30 - 10:45  |  Coffee Break
   10:45 - 11:45  |  DH Values and Collaborators Bill of Rights
   11:45 - 12:30  |  Lunch
