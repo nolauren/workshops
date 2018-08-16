@@ -51,7 +51,7 @@ http://jamesmonroe.umwhistory.org/monroeslife/timeline-of-james-monroes-life/)
 
 
 ## Projects Beyond the Classroom
-This list is based on projects shared with me that do not appear to have a classroom component.
+This list is based on projects shared with me that do not appear to have a classroom component. If this is incorrect, please let me know!
 - [Baltimore Uprising](http://baltimoreuprising2015.org/)  (Omeka)
 - [Virginia Memory](http://www.virginiamemory.com/)  (Omeka)
 - [Reconstructing The Beauvais Missal](https://brokenbooks2.omeka.net/) (Omeka)
