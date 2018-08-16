@@ -4,7 +4,7 @@
 
 ### August 31: Carto
 
-### Octotber 26: Text Analysis (Data Pre, Voyant, Topic Modeling)
+### Octotber 26: Text Analysis (Data Prep, Voyant)
 
 ### November 30: Text Analysis II 
 
