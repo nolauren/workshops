@@ -34,7 +34,7 @@ and [Topic Model Interface](https://maanume.github.io/dh-topic-models/).
 
 ![Supreme Court Network](https://github.com/introdh/intro-dh-cnoppenberger/blob/master/dhassignment_issue.png)
 
-[Example](https://github.com/introdh/intro-dh-cnoppenberger/blob/master/assignment4_NOPPENBERGER.md)assignment.
+[Example](https://github.com/introdh/intro-dh-cnoppenberger/blob/master/assignment4_NOPPENBERGER.md) assignment.
 
 
 ![Tony Awards Network](https://github.com/introdh/intro-dh-klim96/blob/master/Screen%20Shot%202017-12-01%20at%2012.11.19%20AM.png)
