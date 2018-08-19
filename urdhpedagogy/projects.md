@@ -1,5 +1,5 @@
 
-Below is a list of projects that involved a university course. I have included the name of the school since the kind of institution shapes the pedagogical context.  This list is built for a DH Pedagogy Seminar that I am running at the University of Richmond and is by no means exhaustive. Please feel free to email me at ltilton AT richmond DOT edu if you'd like to be added or if information is incorrect/changed.
+Below is a list of projects that involved a university course. I have included the name of the school since the kind of institution shapes the pedagogical context.  This list is built for a DH Pedagogy Seminar that I am running at the University of Richmond over the 18-18 academic year. It is by no means exhaustive. Please feel free to email me at ltilton AT richmond DOT edu if you'd like to be added or if information is incorrect/changed.
 
 ## Omeka
 - University of Richmond: [Objects of American Studies](http://objectsofamst.omeka.net/) 
@@ -10,7 +10,6 @@ Below is a list of projects that involved a university course. I have included t
 - Mary Washington University [Fredericksburg National Cemetery](http://fnc.umwhistory.org/)
 -  University of Oklahoma: [Making Modern America: Discovering the Great Depression and New Deal](http://newdeal.oucreate.com/)
 - University of Oklahoma: [John Steinbeck's America](http://steinbeck.oucreate.com/)
-- University of Delaware: [Colored Conventions](http://coloredconventions.org/conventions) 
 - West Chester University: [Goin North](https://goinnorth.org/) 
 - University of North Carolina: [New Roots/Nuevas Raíces](https://newroots.lib.unc.edu/) 
 - George Mason University: [Jim Crow Lived Here](http://jimcrowlivedhere.org/)
@@ -49,11 +48,15 @@ http://jamesmonroe.umwhistory.org/monroeslife/timeline-of-james-monroes-life/)
 ## ESRI StoryMaps
 - University of Winnipeg: [Food History](https://www.manitobafoodhistory.ca/maps-archive), [Actual Map](https://www.manitobafoodhistory.ca/icelandiccanadian-food-in-manitoba)
 - University of Edinburgh: [The road to Agincourt](https://edinuniv.maps.arcgis.com/apps/Cascade/index.html?appid=2a5058d182fc47dc833e1b803cd2bf04)
+- Michigan State University: [Mapping Fiction](https://www.arcgis.com/apps/MapJournal/index.html?appid=b5485f28143c411682e8277cc2d25b1c)
 - ESRI: [Story Maps and the Digital Humanities](https://www.esri.com/arcgis-blog/products/story-maps/sharing-collaboration/story-maps-and-the-digital-humanities/): List of projects but not classroom based. 
 
 ## Projects Beyond the Classroom
-This list is based on projects shared with me that do not appear to have a classroom component. If this is incorrect, please let me know!
+This list is based on projects shared with me that do not appear to have a classroom component or the classroom component is minimal. If this is incorrect, please let me know!
+- [Colored Conventions](http://coloredconventions.org/conventions) 
 - [Baltimore Uprising](http://baltimoreuprising2015.org/)  (Omeka)
 - [Virginia Memory](http://www.virginiamemory.com/)  (Omeka)
 - [Reconstructing The Beauvais Missal](https://brokenbooks2.omeka.net/) (Omeka)
 - [Albany Walks For Health](http://www.albanywalksforhealth.com/) (Omeka)
+- [Critical Comics](http://courses.dh.msu.domains/al340s17/)
+- [American Indian Digital History Project](http://aidhp.com/)
