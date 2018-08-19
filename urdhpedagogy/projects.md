@@ -53,10 +53,10 @@ http://jamesmonroe.umwhistory.org/monroeslife/timeline-of-james-monroes-life/)
 
 ## Projects Beyond the Classroom
 This list is based on projects shared with me that do not appear to have a classroom component or the classroom component is minimal. If this is incorrect, please let me know!
-- [Colored Conventions](http://coloredconventions.org/conventions) 
+- [Colored Conventions](http://coloredconventions.org/conventions) (Omeka)
 - [Baltimore Uprising](http://baltimoreuprising2015.org/)  (Omeka)
 - [Virginia Memory](http://www.virginiamemory.com/)  (Omeka)
 - [Reconstructing The Beauvais Missal](https://brokenbooks2.omeka.net/) (Omeka)
 - [Albany Walks For Health](http://www.albanywalksforhealth.com/) (Omeka)
-- [Critical Comics](http://courses.dh.msu.domains/al340s17/)
-- [American Indian Digital History Project](http://aidhp.com/)
+- [Critical Comics](http://courses.dh.msu.domains/al340s17/) (Omeka)
+- [American Indian Digital History Project](http://aidhp.com/) (Omeka)
