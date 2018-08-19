@@ -1,5 +1,7 @@
 # FYS 100: Final Assignment
 
+## Full Syllabus
+For more about how this assignment fits into the course, please see the [full syllabus here](https://github.com/nolauren/workshops/blob/master/urdhpedagogy/files/FYS_Syllabus.pdf).
 
 ## Overview 
 As Stuart Hall argues, media functions within, produces, and circulates ideologies.  
