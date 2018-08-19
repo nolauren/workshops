@@ -43,3 +43,7 @@ Make sure to address:
 - Explain the underground publication you have chosen
 - Situate the underground publication you are analyzing within the 1960s
 - Explain which ideology/ ideologies that publication is articulating, transforming and/ or circulating.
+
+## Final Project Example
+
+[The Resistance for Freedom](https://uploads.knightlab.com/storymapjs/3e541f8fc468eec97fe9f4715a3d8b31/fys-100-48-final-project/draft.html) by Madeline Polhill (Available with permission from the student.)
