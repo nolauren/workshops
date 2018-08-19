@@ -1,5 +1,5 @@
 
-Below is a list of projects that involved a university course. I have included the name of the school since the kind of institution shapes the pedagogical context.  This list is built for a DH Pedagogy Seminar that I am running at the University of Richmond over the 18-18 academic year. It is by no means exhaustive. Please feel free to email me at ltilton AT richmond DOT edu if you'd like to be added or if information is incorrect/changed.
+Below is a list of projects that were built for a university course. I have included the name of the school since the kind of institution shapes the pedagogical context.  This list is built for a DH Pedagogy Seminar that I am running at the University of Richmond over the 18-18 academic year. It is by no means exhaustive. Please feel free to email me at ltilton AT richmond DOT edu if you'd like to be added or if information is incorrect/changed.
 
 ## Omeka
 - University of Richmond: [Objects of American Studies](http://objectsofamst.omeka.net/) 
