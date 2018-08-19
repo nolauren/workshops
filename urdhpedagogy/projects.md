@@ -38,7 +38,7 @@ Below is a list of projects that were built for a university course. I have incl
 
 
 ## Storymap.js 
-- University of Richmond FYS: [Documenting 1960s America](https://uploads.knightlab.com/storymapjs/3e541f8fc468eec97fe9f4715a3d8b31/fys-100-48-final-project/draft.html (Example by first year student.)
+- University of Richmond FYS: [Documenting 1960s America](https://uploads.knightlab.com/storymapjs/3e541f8fc468eec97fe9f4715a3d8b31/fys-100-48-final-project/draft.html) (Example by first year student.)
 - University of Mary Washington: [James Monroe Museum Project](http://jamesmonroe.umwhistory.org/monroeslife/storymap/)
 - University of Mary Washington:[Water Sources and Infrastructures of New York, Los Angeles, Sydney, and London
 ](https://umw.maps.arcgis.com/apps/MapSeries/index.html?appid=e26d81da89294e2ba9111655335bb163)
