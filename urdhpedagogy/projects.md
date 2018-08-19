@@ -1,6 +1,21 @@
 
 Below is a list of projects that were built for a university course. I have included the name of the school since the kind of institution shapes the pedagogical context.  This list is built for a DH Pedagogy Seminar that I am running at the University of Richmond over the 18-18 academic year. It is by no means exhaustive. Please feel free to email me at ltilton AT richmond DOT edu if you'd like to be added or if information is incorrect/changed.
 
+## Assessing Projects
+
+- What is the goal of the project?
+- Who made the website? What are their relationships to the institution?
+- Who is the target audience? Specialists? The public? Students? Other users? Should it be all of the above?
+- What knowledge is required to make use of the site as a research or as an exploratory tool?
+- What kinds of data are present? Are they sufficient? Are any modifications to the historical document apparent? Should they be?
+- Is the data available for broader use? Would you want it to be?
+- What kinds of customization (empowerment) does the user have to tell a story with the materials? What would you want?
+- Does the site make an argument? A historical argument? A literary one? Should it? Or should it be a repository without an over intellectual position (if such a neutral instrument were possible)?
+- Please feel free to note any other observations that you have!
+
+
+
+
 ## Omeka
 - University of Richmond: [Objects of American Studies](http://objectsofamst.omeka.net/) 
 - University of Richmond: [Dear Abbitt](http://abbitt.richmond.edu) 
