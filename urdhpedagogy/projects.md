@@ -20,7 +20,7 @@ Below is a list of projects that involved a university course. I have included t
 - Eastern Washington University: [Spokane Historical](http://www.spokanehistorical.org/about/)
 - University of Albany: [AHIS 100: American Political and Social History](http://maevekane.net/ahis100/), Omeka as Primary Source Reading Site
 - Northeastern University: [The InstaEssay Archive](http://instaessayarchive.org/about) (Created in a graduate course.)
-
+- Ursinus College: [Digital History at Ursinus](http://omeka.ursinus.edu/exhibits)
 
 
 ## Storymap.js 
@@ -29,6 +29,7 @@ Below is a list of projects that involved a university course. I have included t
 - University of Mary Washington:[Water Sources and Infrastructures of New York, Los Angeles, Sydney, and London
 ](https://umw.maps.arcgis.com/apps/MapSeries/index.html?appid=e26d81da89294e2ba9111655335bb163)
 - Wesleyan University: [Visual Worlds of Himalayan Buddhism Example RLST 127/583, SAST 467/567 Example 1](https://uploads.knightlab.com/storymapjs/c3664ff4fb8971c269fa2d54e6eb1dab/chapters-4-6-bok/index.html), [Visual Worlds of Himalayan Buddhism Example RLST 127/583, SAST 467/567 Example 2](https://uploads.knightlab.com/storymapjs/c3664ff4fb8971c269fa2d54e6eb1dab/prakash-panel-story-map/index.html)
+
 
 ##  Timeline.js
 - University of Mary Washington: [James Monroe Museum Project](
@@ -48,7 +49,7 @@ http://jamesmonroe.umwhistory.org/monroeslife/timeline-of-james-monroes-life/)
 ## ESRI StoryMaps
 - University of Winnipeg: [Food History](https://www.manitobafoodhistory.ca/maps-archive), [Actual Map](https://www.manitobafoodhistory.ca/icelandiccanadian-food-in-manitoba)
 - University of Edinburgh: [The road to Agincourt](https://edinuniv.maps.arcgis.com/apps/Cascade/index.html?appid=2a5058d182fc47dc833e1b803cd2bf04)
-
+- ESRI: [Story Maps and the Digital Humanities](https://www.esri.com/arcgis-blog/products/story-maps/sharing-collaboration/story-maps-and-the-digital-humanities/): List of projects but not classroom based. 
 
 ## Projects Beyond the Classroom
 This list is based on projects shared with me that do not appear to have a classroom component. If this is incorrect, please let me know!
