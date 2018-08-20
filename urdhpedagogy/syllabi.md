@@ -11,6 +11,6 @@ and related [course website](https://journeys.dartmouth.edu/censushistory/)
 
 - [Literature/Spanish](http://eliterature.digitalhumanities.berkeley.edu/)
 
-- [DH/Media Studies/American Studies](https://miriamposner.com/dh150w15/)
+- [DH/Media Studies](https://miriamposner.com/dh150w15/)
 
-- [DH/Media Studies/American Studies](http://digitalmateriallabor.org/syllabus/)
+- [DH/Media Studies](http://digitalmateriallabor.org/syllabus/)
