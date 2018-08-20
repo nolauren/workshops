@@ -38,7 +38,7 @@ Below is a list of projects that were built for a university course. I have incl
 
 
 ## Storymap.js 
-- University of Richmond FYS: [Documenting 1960s America](https://uploads.knightlab.com/storymapjs/3e541f8fc468eec97fe9f4715a3d8b31/fys-100-48-final-project/draft.html) (Example by first year student. Posted with her permission. [Full assignment/syllabus here.](https://github.com/nolauren/workshops/blob/master/urdhpedagogy/files/fys100assignment.md))
+- University of Richmond FYS: [Documenting 1960s America](https://uploads.knightlab.com/storymapjs/3e541f8fc468eec97fe9f4715a3d8b31/fys-100-48-final-project/draft.html) (Example by first year student. Posted with her permission. [Full assignment/syllabus here.](https://github.com/nolauren/workshops/blob/master/urdhpedagogy/files/fys100assignment.md
 - University of Mary Washington: [James Monroe Museum Project](http://jamesmonroe.umwhistory.org/monroeslife/storymap/)
 - University of Mary Washington:[Water Sources and Infrastructures of New York, Los Angeles, Sydney, and London
 ](https://umw.maps.arcgis.com/apps/MapSeries/index.html?appid=e26d81da89294e2ba9111655335bb163)
@@ -61,6 +61,7 @@ http://jamesmonroe.umwhistory.org/monroeslife/timeline-of-james-monroes-life/)
 - Columbia University: [Harlem Education History Project](http://educatingharlem.cdrs.columbia.edu/omeka/)
 
 ## ESRI StoryMaps
+- Colby College: [The Navigli Project](http://digitalmateriallabor.org/syllabus/)
 - University of Winnipeg: [Food History](https://www.manitobafoodhistory.ca/maps-archive), [Actual Map](https://www.manitobafoodhistory.ca/icelandiccanadian-food-in-manitoba)
 - University of Edinburgh: [The road to Agincourt](https://edinuniv.maps.arcgis.com/apps/Cascade/index.html?appid=2a5058d182fc47dc833e1b803cd2bf04)
 - Michigan State University: [Mapping Fiction](https://www.arcgis.com/apps/MapJournal/index.html?appid=b5485f28143c411682e8277cc2d25b1c)
