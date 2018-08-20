@@ -22,3 +22,10 @@ and related [course website](https://journeys.dartmouth.edu/censushistory/)
 - [Language: Latin Epigraphy](http://www.monicaberti.com/wp-content/uploads/2015/09/Latin_Epigraphy_Syllabus_2013.pdf)
 
 - [East Asian Studies/DH: East Asian Digital Humanities](https://hcommons.org/deposits/objects/hc:17238/datastreams/CONTENT/content)
+
+- [Language, Literature, and Culture/ French: Language and Culture of Quebec](https://hcommons.org/deposits/objects/hc:20318/datastreams/CONTENT/content)
+
+- 
+
+- [Study Abroad: Culture: Digital and Physical Syllabus](https://hcommons.org/deposits/objects/hc:11360/datastreams/CONTENT/content)
+
