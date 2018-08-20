@@ -14,3 +14,5 @@ and related [course website](https://journeys.dartmouth.edu/censushistory/)
 - [DH/Media Studies I](https://miriamposner.com/dh150w15/)
 
 - [DH/Media Studies II](http://digitalmateriallabor.org/syllabus/)
+
+- [Text Encoding](https://tei.academic.wlu.edu/)
