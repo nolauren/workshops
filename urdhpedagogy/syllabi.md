@@ -26,7 +26,7 @@ and related [course website](https://journeys.dartmouth.edu/censushistory/)
 
 - [Literature/Spanish: Electronic Literature](http://eliterature.digitalhumanities.berkeley.edu/)
 
-- German Language: Intermediate [Syllabus](https://github.com/nolauren/teaching/tree/master/introdh2017) and [Assignment](https://github.com/nolauren/workshops/blob/master/urdhpedagogy/files/Abschlussprojekt%202018%20Details.doc)
+- German Language: Intermediate [Syllabus](https://github.com/nolauren/workshops/blob/master/urdhpedagogy/files/262%20Syllabus.doc) and [Assignment](https://github.com/nolauren/workshops/blob/master/urdhpedagogy/files/Abschlussprojekt%202018%20Details.doc)
 
 - [German Language: Digital Goethe](https://github.com/nolauren/workshops/blob/master/urdhpedagogy/files/GERM%20349%20TTr%202018%20Syllabus.docx)
 
