@@ -8,7 +8,7 @@ With a partner, explore how a digital component is incorporated into a syllabus.
 1. What are the goals of the course?
 2. What kind(s) of digital humanities component(s) have been incorporated? 
 3. How are the component(s) structured? (i.e collaborative? outcome formats?)
-4. Which resources/ people are needed to realize this component?
+4. Which resources/ people are needed to support this component?
 5. How might such a component(s) fit into your course?
 
 ## Syllabi
