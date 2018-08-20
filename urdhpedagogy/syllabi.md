@@ -25,7 +25,5 @@ and related [course website](https://journeys.dartmouth.edu/censushistory/)
 
 - [Language, Literature, and Culture/ French: Language and Culture of Quebec](https://hcommons.org/deposits/objects/hc:20318/datastreams/CONTENT/content)
 
-- 
-
 - [Study Abroad: Culture: Digital and Physical Syllabus](https://hcommons.org/deposits/objects/hc:11360/datastreams/CONTENT/content)
 
