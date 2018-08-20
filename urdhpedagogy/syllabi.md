@@ -20,7 +20,7 @@ With a partner, explore how a digital component is incorporated into a syllabus.
 - [History: U.S. History Through Census Data](http://www.emilyklancher.com/teaching/history90_01_fall.pdf)
 and related [course website](https://journeys.dartmouth.edu/censushistory/)
 
-- [History: Scandal, Crime and Spectacle in the 19th Century](https://github.com/nolauren/workshops/blob/master/urdhpedagogy/files/History211.pdf)
+- [History: Scandal, Crime and Spectacle in the 19th Century](https://github.com/nolauren/workshops/blob/master/urdhpedagogy/files/History211.pdf) and [Coursebook](http://walshbr.com/textanalysiscoursebook/table-of-contents/)
 
 - [Literature/Spanish: Electronic Literature](http://eliterature.digitalhumanities.berkeley.edu/)
 
