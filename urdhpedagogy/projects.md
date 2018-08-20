@@ -61,7 +61,7 @@ http://jamesmonroe.umwhistory.org/monroeslife/timeline-of-james-monroes-life/)
 - Columbia University: [Harlem Education History Project](http://educatingharlem.cdrs.columbia.edu/omeka/)
 
 ## ESRI StoryMaps
-- Colby College: [The Navigli Project](http://digitalmateriallabor.org/syllabus/)
+- Colby College: [The Navigli Project](https://colbycollege.maps.arcgis.com/apps/MapJournal/index.html?appid=4882d326c5364e0a9b3a79d96b3c2c4d#map)
 - University of Winnipeg: [Food History](https://www.manitobafoodhistory.ca/maps-archive), [Actual Map](https://www.manitobafoodhistory.ca/icelandiccanadian-food-in-manitoba)
 - University of Edinburgh: [The road to Agincourt](https://edinuniv.maps.arcgis.com/apps/Cascade/index.html?appid=2a5058d182fc47dc833e1b803cd2bf04)
 - Michigan State University: [Mapping Fiction](https://www.arcgis.com/apps/MapJournal/index.html?appid=b5485f28143c411682e8277cc2d25b1c)
