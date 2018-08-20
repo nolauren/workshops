@@ -2,6 +2,12 @@
 
 -------------
 
+## Ground Rules
+- Plesae drive your own computer.
+- Please remain on the same step as the workshop leader.
+- Questions? Please ask!
+
+------------------
 
 ## Timeline (Timeline.js) ⏰
 
