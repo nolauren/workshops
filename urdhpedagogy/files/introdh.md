@@ -12,6 +12,9 @@ to humanities data. Our guiding questions include:
 - Repository [here](https://github.com/nolauren/teaching/tree/master/introdh2017)
 
 ## Data
+[Assignment](https://github.com/nolauren/teaching/blob/master/introdh2017/assignment1.md)
+
+[Example](https://github.com/introdh/intro-dh-JaggerBoussuge/blob/master/Sheet%201-Table%201.csv) and [Example](https://github.com/introdh/intro-dh-JaggerBoussuge/blob/master/Sheet%202-Table%201.csv)
 
 ## Text Analysis
 
