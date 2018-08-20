@@ -1,5 +1,7 @@
 Explore one of the following syllabi. 
 
+- [FYS: Documenting 1960s America](https://github.com/nolauren/workshops/blob/master/urdhpedagogy/files/FYS_Syllabus.pdf) and [DH Assignment](https://github.com/nolauren/workshops/blob/master/urdhpedagogy/files/fys100assignment.md)
+
 - [English: Technologies of Text](https://s18tot.ryancordell.org/)
 
 - [English/History: Bostonography](http://bostonography.benschmidt.org/)
