@@ -145,6 +145,7 @@ allow for this. Web-based interactive mapping tools like Carto continue to build
 For an example, see [Forced Migration of Enslaved Peoples](https://dsl.richmond.edu/panorama/forcedmigration/).
 
 
+
 Today, we are going to explore narrative mapping by focusing on another 
 Knight Foundation tool called [StoryMap](https://storymap.knightlab.com/).  
 
@@ -159,6 +160,7 @@ For today, we will use Classic.  So, let's make a storymap!
 The storymap is comprised of a series of slides with a spatial component. 
 It words best when the number of slides doesn't exceed ~20 and the story is relatively contained. 
 Let's walk through the first slide and then an example.
+
 
 1. Slide 1 - Title
 - Headline: From Selma to Montgomery
@@ -209,6 +211,8 @@ Once you are ready to share your map, select the Share button on the top right c
 4. Best with visually rich media. 
 5. The data is locked into the tool.
 
+
+Note: [Gigapixel](https://storymap.knightlab.com/gigapixel/) is great for working with images. 
 
 ### Teaching
 - I use this as the form of scholarly communication for assignments. 
