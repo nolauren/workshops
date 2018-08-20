@@ -1,8 +1,12 @@
-Explore one of the following syllabi. Questions:
+Explore how a digital component is incorporated into a syllabus.   
+
+## Questions:
 
 1. What are the goals of the course?
 2. What kind(s) of digital humanities component has been incorporated?
 3. How might such a component fit into your course?
+
+## Syllabi
 
 - [FYS: Documenting 1960s America](https://github.com/nolauren/workshops/blob/master/urdhpedagogy/files/FYS_Syllabus.pdf) and [DH Assignment](https://github.com/nolauren/workshops/blob/master/urdhpedagogy/files/fys100assignment.md)
 
