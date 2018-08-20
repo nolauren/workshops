@@ -44,3 +44,4 @@ and [Topic Model Interface](https://maanume.github.io/dh-topic-models/).
 
 ## NEH Grant
 
+Write an [NEH grant](https://github.com/nolauren/teaching/blob/master/introdh2017/DH_FinalProject_Grant.pdf) and provide an in-class [Presentation](https://github.com/nolauren/teaching/blob/master/introdh2017/DH_FinalProject_Grant_Presentation.md).
