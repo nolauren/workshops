@@ -26,6 +26,8 @@ and related [course website](https://journeys.dartmouth.edu/censushistory/)
 
 - [Literature/Spanish: Electronic Literature](http://eliterature.digitalhumanities.berkeley.edu/)
 
+- German Language: Intermediate [Syllabus](https://github.com/nolauren/teaching/tree/master/introdh2017) and [Assignment](https://github.com/nolauren/workshops/blob/master/urdhpedagogy/files/Abschlussprojekt%202018%20Details.doc)
+
 - [DH/Media Studies I: Selfies, Snapchat, & Cyberbullies](https://miriamposner.com/dh150w15/)
 
 - [DH/Media Studies II: Digital Labor, Urban Space, and Materiality](http://digitalmateriallabor.org/syllabus/)
