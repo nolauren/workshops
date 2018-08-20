@@ -5,6 +5,7 @@
 ## Ground Rules
 - Plesae drive your own computer.
 - Please remain on the same step as the workshop leader.
+- Plesae place a sticky note on our computer if you need assistance.
 - Questions? Please ask!
 
 ------------------
