@@ -28,7 +28,7 @@ and related [course website](https://journeys.dartmouth.edu/censushistory/)
 
 - [DH/Media Studies II: Digital Labor, Urban Space, and Materiality](http://digitalmateriallabor.org/syllabus/)
 
-- [DH: Scholarly Text Encoding](https://tei.academic.wlu.edu/)
+- [DH: Scholarly Text Encoding](https://tei.academic.wlu.edu/) (Paired with French 341).
 
 - [Language: Latin Epigraphy](http://www.monicaberti.com/wp-content/uploads/2015/09/Latin_Epigraphy_Syllabus_2013.pdf)
 
