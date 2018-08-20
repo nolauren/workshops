@@ -20,3 +20,5 @@ and related [course website](https://journeys.dartmouth.edu/censushistory/)
 - [DH: Scholarly Text Encoding](https://tei.academic.wlu.edu/)
 
 - [Language: Latin Epigraphy](http://www.monicaberti.com/wp-content/uploads/2015/09/Latin_Epigraphy_Syllabus_2013.pdf)
+
+- [East Asian Studies/DH: East Asian Digital Humanities](https://hcommons.org/deposits/objects/hc:17238/datastreams/CONTENT/content)
