@@ -9,10 +9,10 @@ and related [course website](https://journeys.dartmouth.edu/censushistory/)
 
 - [History: Scandal, Crime and Spectacle in the 19th Century](https://github.com/nolauren/workshops/blob/master/urdhpedagogy/files/History211.pdf)
 
-- [Literature/Spanish](http://eliterature.digitalhumanities.berkeley.edu/)
+- [Literature/Spanish: Electronic Literature](http://eliterature.digitalhumanities.berkeley.edu/)
 
-- [DH/Media Studies I](https://miriamposner.com/dh150w15/)
+- [DH/Media Studies I: Selfies, Snapchat, & Cyberbullies](https://miriamposner.com/dh150w15/)
 
-- [DH/Media Studies II](http://digitalmateriallabor.org/syllabus/)
+- [DH/Media Studies II: Digital Labor, Urban Space, and Materiality](http://digitalmateriallabor.org/syllabus/)
 
-- [Text Encoding](https://tei.academic.wlu.edu/)
+- [DH: Scholarly Text Encoding](https://tei.academic.wlu.edu/)
