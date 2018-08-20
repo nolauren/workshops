@@ -1,9 +1,9 @@
 
-## Goal:
+## Goal
 
 With a partner, explore how a digital component is incorporated into a syllabus.   
 
-## Questions:
+## Questions
 
 1. What are the goals of the course?
 2. What kind(s) of digital humanities component(s) have been incorporated?
