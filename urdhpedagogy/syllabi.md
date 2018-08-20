@@ -1,4 +1,7 @@
-Explore how a digital component is incorporated into a syllabus.   
+
+## Goal:
+
+With a partner, explore how a digital component is incorporated into a syllabus.   
 
 ## Questions:
 
