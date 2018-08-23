@@ -44,3 +44,5 @@ and related [course website](https://journeys.dartmouth.edu/censushistory/)
 
 - [Study Abroad: Culture: Digital and Physical Syllabus](https://hcommons.org/deposits/objects/hc:11360/datastreams/CONTENT/content)
 
+- [History: Public Histoty In Action: Archives](https://github.com/nolauren/workshops/blob/master/urdhpedagogy/files/archives_syllabus.docx)
+
