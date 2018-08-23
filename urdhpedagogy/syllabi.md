@@ -46,3 +46,4 @@ and related [course website](https://journeys.dartmouth.edu/censushistory/)
 
 - [History: Public Histoty In Action: Archives](https://github.com/nolauren/workshops/blob/master/urdhpedagogy/files/archives_syllabus.docx)
 
+ - [History: Adventures in Digital History](http://courses.mcclurken.org/adh18/syllabus-2/)
