@@ -7,7 +7,7 @@ Please Note: This tutorial is heavily adapted from the [ArcGIS Official Story Ma
 
 # Creating a Story Map Journal
 
-Once you have logged in, you should see projects that have already been completed here at U of R.  At the top, you should also see the a square made up of 9 smaller squares.  Click the square and choose the "Story Maps" option. Next, you should see any previous story maps that you created, and an option to "Create Story."  After you click "Create Story," you can choose which type of story map you are interested in making.  For the purposes of this tutorial, we are going to create a "Story Map Journal."  
+Once you have logged in, you should see projects that have already been completed here at U of R.  At the top, you should  see a square made up of 9 smaller squares.  Click the square and choose the "Story Maps" option. Next, you should see any previous story maps that you created, and an option to "Create Story."  After you click "Create Story," you can choose which type of story map you are interested in making.  For the purposes of this tutorial, we are going to create a "Story Map Journal."  
 
 The pop up dialogue asks us if we would like a side panel or a floating panel.  We are going to leave it at the default side panel, which will show our navigation display on the left side.  Next, we need to enter in a title for our map.  In this case, we are going to type in "Welcome to San Diego."  The first section of our story map is the "Home Section."  This will introduce our visitors to our map.  We also have the option of choosing Map, Image, Video, or Web Page as the main content for our webpage.  We are going to use a nice image for our section that we have uploaded on Flickr.  Click the Flickr icon and for the username type in "ESRI Story Maps Demo."  After you click Load Albums, we can choose which image we want.  For the purposes of this tutorial, we are going to use the "View Over San Diego Bay" image and choose the "fill" option. 
 
@@ -25,7 +25,7 @@ We want to now adjust the zoom level to focus in on the area we are interested i
 
 > San Diego is located on the Pacific coast, 120 miles south of Los Angeles and 20 miles north of Tijuana.
 
-We are going to add one final section on Downtown San Diego.  In the Main Stage, title this section "Downtown San Diego."  Where it says location, click "Custom configuration" and zoom into the downtown area.  Hit the button that says "Save Map Location."  Next, we will adjust what points are available.  Next to content, click "Custom Configuration."  This will provide us a popup with different location layers.  Lets go ahead and uncheck the "Ferry Routes" and add the "Food" points. Finally, click "Save Map Location."  In the side panel, type in the following information:
+We are going to add one final section on Downtown San Diego.  In the Main Stage, title this section "Downtown San Diego."  Where it says location, click "Custom configuration" and zoom into the downtown area.  Hit the button that says "Save Map Location."  Next, we will adjust what points are available.  Next to content, click "Custom Configuration."  This will provide us a popup with different location layers.  Let's go ahead and uncheck the "Ferry Routes" and add the "Food" points. Finally, click "Save Map Location."  In the side panel, type in the following information:
 
 > Start your visit to San Diego in the lively downtown. Here, next to San Diego Bay, you'll find the Convention Center, Marina, the baseball stadium, and lots of things to do.
 
