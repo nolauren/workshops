@@ -48,6 +48,9 @@ Next to the table icon, you should see a symbol made up of a triangle, square, a
 
 ## Conclusion
 
-By creating our map, we can now ask questions visually that were difficult to examine before.  ArcGIS Online and ArcGIS Desktop provide us tools for advance GIS analysis but just viewing our data spatially already opens up interesting questions:  Is there a relationship between the restaurants you chose and the educational population that surrounds them?  How does the educational population around the University of Richmond compare to those around your favorite sites and restaurants?  Is there a relationship between the sites of interest and educational population? 
+By creating our map, we can now ask questions visually that were difficult to examine before.  ArcGIS Online and ArcGIS Desktop provide us tools for advance GIS analysis but just viewing our data spatially already opens up interesting questions:
+- Is there a relationship between the restaurants you chose and the educational population that surrounds them?  
+- How does the educational population around the University of Richmond compare to those around your favorite sites and restaurants? 
+- Is there a relationship between the sites of interest and educational population? 
 
 ArcGIS is a powerful tool, so see what other questions you can come up with and explore.  
