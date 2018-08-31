@@ -120,26 +120,44 @@ We can change the base map. Carto offers several options. The Voyager style offe
 
 ![](https://github.com/nolauren/workshops/blob/master/img/cartomap.png)
 
-#### Layers - Visualizations/ Style
+#### Layers - Exploring Visualizations
 
 Click on Layers. By default, our data is the first layer. We will primarily work with this layer during the workshop. If we wanted to layer the map wtih additional data, all we would need to add is a new layer. 
+
+##### Style
 
 Let's explore our default layer. Click on "fsa_owi_geo_clean" -> Style  
 
 ![]()
 
-Points: They are great, but you need to be careful when the actual location isn't precise. Since we are looking at a national scale, this is less of an issue. However, if we zoom in, this becomes an issue as we don't have the exact location of many of the photos. 
+###### Points 
+
+They are great, but you need to be careful when the actual location isn't precise. Since we are looking at a national scale, this is less of an issue. However, if we zoom in, this becomes an issue as we don't have the exact location of many of the photos. 
 
 
-Hexbin: It suggests the general area but doesn't visually suggest we know the exact location. It also helps show photo counts. One thing I don't like about Carto is their default color ramp; the lighter the color, the more photos there are.  Visually, we tend to associate darkness with a higher count, so I'd switch the ramp. We can do that by going to color. One thing to keep in mind is those who may be color blind. I find [this tool](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) very helpful. You will notice that this is the same color ramp we use for Photogrammar. Let's pick this green color ramp under Style in Carto.
+###### Hexbin 
+
+It suggests the general area but doesn't visually suggest we know the exact location. It also helps show photo counts. One thing I don't like about Carto is their default color ramp; the lighter the color, the more photos there are.  Visually, we tend to associate darkness with a higher count, so I'd switch the ramp. We can do that by going to color. One thing to keep in mind is those who may be color blind. I find [this tool](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) very helpful. You will notice that this is the same color ramp we use for Photogrammar. Let's pick this green color ramp under Style in Carto.
 
 
 ![](https://github.com/nolauren/workshops/blob/master/img/cartohex.png)
 
-Heatmap: Let's take a look. 
+One thing to keep in mind is how this might be deceiving. Why might just a 'COUNT' be an issue? 
+
+######  Animated
+
+Much of Carto will work out of the box, but this doesn't mean it is making the right assumption. We need to change 'COLUMN' to a different variable. 
+
+![](https://github.com/nolauren/workshops/blob/master/img/cartodate.png)
+
+######  Heatmap
+
+Let's take a look. Does this data look great for this visualization? 
 
 
-Labels: They can be added. We have way too much data for "Labels", but it is worth noting. If you click on it, you can see the options.  We'll come to another strategy later. 
+###### Labels
+
+They can be added. We have way too much data for "Labels", but it is worth noting. If you click on it, you can see the options.  We'll come to another strategy later. 
  
  
  ![](https://github.com/nolauren/workshops/blob/master/img/cartolabels.png)
@@ -147,21 +165,21 @@ Labels: They can be added. We have way too much data for "Labels", but it is wor
  - What we can do instead is add a Pop-Up. Select "Pop-Up" and select the metadata you want to apeear. In our case, I am going to select pname, year, and title. You can change the name of the title as it will appear in the pop-up here, which we want to do here instead of adjusting our original data.  If you select the final "Pop-Up Header with URL" and provide a full URL, an image will appear in the header. Let's add this columnt to our data. Go back to the data and click "Add Column" and name it "photourl". Let's then add the photo for "http://cdn.loc.gov/service/pnp/fsac/1a33000/1a33800/1a33850v.jpg" for CartoID 13 (fsa1992000013/PP). We can't leave any previous columns null, so click on them to add space. (One more reason to do data adjustments outside of Carto.) Carto can be fickle! Then, we go back to Layer -> Select Layer -> Pop-Up. Let's toggle on photourl and move it ot hte top. It much be the first selected item. You can also select if you want a user to see the pop-up when they "hover" or "click". We picked click becasue of the density of points. 
 
 
-Legend: You can add aspects as necessary for your project. To rename the Title, we have to reame the layer.
+##### Legend
 
+You can add aspects as necessary for your project. To rename the Title, we have to reame the layer.
 
 Let's make our map points with an appropriate pop-up. Then, we can add widgets! 
 
+![](https://github.com/nolauren/workshops/blob/master/img/cartolegend.png)
 
 #### Widgets
 
 Widgets are a way to add additional interactivity to the map.  Click on the pencil on the far left menu ("Edit Map"). Then select Widgets-> +Add New Widget.
 
-There will be options based on your metadata. Let's choose "pname" and "year". We can then customize these two widgets.
+There will be options based on your metadata. Let's choose "pname". We can then customize these widgets.
 
-Let's:
-- Change the name of the table.
-- Give each photographer a color. 
+![](https://github.com/nolauren/workshops/blob/master/img/cartowidgets.png)
 
 #### SQL
 
@@ -174,6 +192,9 @@ SQL query:
 ```{sql}
 SELECT * FROM urichmond.fsa_owi_geo_clean
 ```
+
+
+![](https://github.com/nolauren/workshops/blob/master/img/cartosql.png)
 
 This just says that we want to select all of the variables from our dataset named `fsa_owi_geo_clean` 
 stored in the `urichmond` account. We can modify the query by applying an `WHERE` statement. Try typing
