@@ -85,7 +85,14 @@ To get back to the data, go to the top left of the screen.
 
 There you will see the Carto logo, your username, and Maps. Click on Maps -> Your datasets. 
 
+Now we can see our data. Let's select 'Create Map' on the bottom right. 
+
+![](https://github.com/nolauren/workshops/blob/master/img/cartodatatomap.png)
+
+
 The screen will shift to a map interface. This is called "Carto Builder". 
+
+![](https://github.com/nolauren/workshops/blob/master/img/cartobuilder.png)
 
 
 
@@ -111,24 +118,34 @@ In other words, it is a picture. It is stored as pixels. You can't do analytics 
 
 We can change the base map. Carto offers several options. The Voyager style offers several different colors and varying degrees of detail. For example, Positron has city and state labels while Positron (LITE) does not. Voyager is a slighlty different color as well as includes major highways. The color will depend on the mood you are trying to convey.  Base map needs will also depend on the time period being mapped. Particularly for Photogrammar, we would not want to use the Here map collection. It would be ahistorical. Also, place names are not value neutral. For example, if one were mapping indigenous communities, which place names to use is a major issue to consider. If you want to add your own map, Mapbox is an option. This will require turning a map into raster data to then upload. One option is to use the open source [QGIS](https://www.qgistutorials.com/en/docs/georeferencing_basics.html). Programming Historian also offers [a tutorial](https://programminghistorian.org/lessons/geocoding-qgis). 
 
-
+![](https://github.com/nolauren/workshops/blob/master/img/cartomap.png)
 
 #### Layers - Visualizations/ Style
 
 Click on Layers. By default, our data is the first layer. We will primarily work with this layer during the workshop. If we wanted to layer the map wtih additional data, all we would need to add is a new layer. 
 
-Let's explore our default layer. Click on "photo_dataset_all_raw" -> Style  
+Let's explore our default layer. Click on "fsa_owi_geo_clean" -> Style  
 
+![]()
 
 Points: They are great, but you need to be careful when the actual location isn't precise. Since we are looking at a national scale, this is less of an issue. However, if we zoom in, this becomes an issue as we don't have the exact location of many of the photos. 
- - Labels can be added. We have way too much data for "Labels", but it is worth noting. If you click on it, you can see the options. 
- - What we can do instead is add a Pop-Up. Select "Pop-Up" and select the metadata you want to apeear. In our case, I am going to select pname, year, and title. You can change the name of the title as it will appear in the pop-up here, which we want to do here instead of adjusting our original data.  If you select the final "Pop-Up Header with URL" and provide a full URL, an image will appear in the header. Let's add this columnt to our data. Go back to the data and click "Add Column" and name it "photourl". Let's then add the photo for "http://cdn.loc.gov/service/pnp/fsac/1a33000/1a33800/1a33850v.jpg" for CartoID 13 (fsa1992000013/PP). We can't leave any previous columns null, so click on them to add space. (One more reason to do data adjustments outside of Carto.) Carto can be fickle! Then, we go back to Layer -> Select Layer -> Pop-Up. Let's toggle on photourl and move it ot hte top. It much be the first selected item. You can also select if you want a user to see the pop-up when they "hover" or "click". We picked click becasue of the density of points. 
 
- 
 
 Hexbin: It suggests the general area but doesn't visually suggest we know the exact location. It also helps show photo counts. One thing I don't like about Carto is their default color ramp; the lighter the color, the more photos there are.  Visually, we tend to associate darkness with a higher count, so I'd switch the ramp. We can do that by going to color. One thing to keep in mind is those who may be color blind. I find [this tool](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) very helpful. You will notice that this is the same color ramp we use for Photogrammar. Let's pick this green color ramp under Style in Carto.
 
-Heatmap: It can be great! Just not for this data set.
+
+![](https://github.com/nolauren/workshops/blob/master/img/cartohex.png)
+
+Heatmap: Let's take a look. 
+
+
+Labels: They can be added. We have way too much data for "Labels", but it is worth noting. If you click on it, you can see the options.  We'll come to another strategy later. 
+ 
+ 
+ ![](https://github.com/nolauren/workshops/blob/master/img/cartolabels.png)
+ 
+ - What we can do instead is add a Pop-Up. Select "Pop-Up" and select the metadata you want to apeear. In our case, I am going to select pname, year, and title. You can change the name of the title as it will appear in the pop-up here, which we want to do here instead of adjusting our original data.  If you select the final "Pop-Up Header with URL" and provide a full URL, an image will appear in the header. Let's add this columnt to our data. Go back to the data and click "Add Column" and name it "photourl". Let's then add the photo for "http://cdn.loc.gov/service/pnp/fsac/1a33000/1a33800/1a33850v.jpg" for CartoID 13 (fsa1992000013/PP). We can't leave any previous columns null, so click on them to add space. (One more reason to do data adjustments outside of Carto.) Carto can be fickle! Then, we go back to Layer -> Select Layer -> Pop-Up. Let's toggle on photourl and move it ot hte top. It much be the first selected item. You can also select if you want a user to see the pop-up when they "hover" or "click". We picked click becasue of the density of points. 
+
 
 Legend: You can add aspects as necessary for your project. To rename the Title, we have to reame the layer.
 
