@@ -10,7 +10,15 @@
 
 Several broad categories of mapping (not exhaustive by any means!):
 
-1. (Interactive) Visualizations: Flexible interactive visualizations served over the web. Ex. CARTO (tool), [Photogrammar] (photogrammar.yale.edu) (project), and [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/) (project)
+1. (Interactive), Exploratory Visualizations: Flexible interactive visualizations served over the web. Ex. CARTO (tool), [Photogrammar](photogrammar.yale.edu) (project), and [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/) (project)
+
+![](https://github.com/nolauren/workshops/blob/master/img/cartophotogrammardots.png)
+
+![](https://github.com/nolauren/workshops/blob/master/img/cartophotogrammardelano.png)
+
+![](https://github.com/nolauren/workshops/blob/master/img/cartomapping2.png)
+
+![](https://github.com/nolauren/workshops/blob/master/img/cartorenewing.png)
 
 2. Narrative mapping: Maps that tell a story, often in a linear way. Ex StoryMap.js, ESRI StoryMaps 
 
@@ -34,10 +42,14 @@ I suggest using your @institutionname.edu account. You can then email Carto
 about access to free plans by going here: https://carto.com/community/ambassadors/#started. 
 They review applications every month. 
 
+For students, it will be best [to set them up](https://carto.com/students-access/) through the CARTO + GITHUB system. 
+This does mean students will also need a [GitHub account](https://github.com/). 
+
+![](https://github.com/nolauren/workshops/blob/master/img/cartogithub.png)
 
 ### Data
 
-Let's get [some data](https://github.com/nolauren/workshops/blob/master/data/photogrammar_all2.zip)!
+Let's get [some data](https://github.com/nolauren/workshops/blob/master/data/fsa_owi_geo_clean.csv)!
 Once downloaded, unzip and open.  
 
 
@@ -60,12 +72,17 @@ To import data into CartoDB, drag and drop the file you want into the dashboard.
 
 Go to New Map -> Add Datasets -> Connect Dataset.
 
+![](https://github.com/nolauren/workshops/blob/master/img/cartoadddata.png)
+
 We are going to upload the unzipped dataset: photo_dataset_all_raw.csv
 
 
 Once the data is loaded, a pop-up will appear on the bottom left that will 
 ask if you want to see the data. This will only appear once. 
 To get back to the data, go to the top left of the screen. 
+
+![](https://github.com/nolauren/workshops/blob/master/img/cartomapdata.png)
+
 There you will see the Carto logo, your username, and Maps. Click on Maps -> Your datasets. 
 
 The screen will shift to a map interface. This is called "Carto Builder". 
