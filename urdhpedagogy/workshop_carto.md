@@ -129,6 +129,19 @@ Let's:
 - Change the name of the table.
 - Give each photographer a color. 
 
+#### SQL
+
+Often in exploratory analysis it is useful to plot only a subset of our data. One way to do this in Carto
+is through the use of commands using a **structured query language**, or **SQL**. To apply SQL in Carto,
+return to the map view and click on the data source (here, `fsa_owi_geo_clean`). At the bottom should be
+a selector for VALUES/SQL; slide this to the SQL selection. This opens up a window with the default 
+SQL query:
+
+```{sql}
+SELECT * FROM urichmond.fsa_owi_geo_clean
+```
+
+
 
 #### Publish 
 
