@@ -141,7 +141,28 @@ SQL query:
 SELECT * FROM urichmond.fsa_owi_geo_clean
 ```
 
+This just says that we want to select all of the variables from our dataset named `fsa_owi_geo_clean` 
+stored in the `urichmond` account. We can modify the query by applying an `WHERE` statement. Try typing
+in this code instead and applying the query:
 
+```{sql}
+SELECT * FROM urichmond.fsa_owi_geo_clean WHERE pname='Jack Delano'
+```
+
+What happens? Where does Jack Delano travel during his time as a staff photographer? We can filter on
+continuous variables as well; here is a map of only the WWII photographs from the collection:
+
+```{sql}
+SELECT * FROM urichmond.fsa_owi_geo_clean WHERE year > 1942
+```
+
+Or, for a range of years, try this:
+
+```{sql}
+SELECT * FROM urichmond.fsa_owi_geo_clean WHERE year >= 1939 AND year <= 1940
+```
+
+Try your own query using one or more photographers or dates!
 
 #### Publish 
 
