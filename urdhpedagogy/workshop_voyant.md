@@ -148,6 +148,11 @@ Want to look at films plots from Wikipedia? Here you [go](https://github.com/dmi
 - The "all" folder includes the plots from each film nominated for an Academy Award.
 - The "win" folder inclues a subset, the plots from each film that won an Acadeym Award. 
 
+Other ideas:
+- [Don Quijote by Miguel de Cervantes Saavedra](http://www.gutenberg.org/ebooks/2000?msg=welcome_stranger) from [Project Gutenberg](http://www.gutenberg.org/wiki/Main_Page)
+- [Madame Bovary by Flaubert ](http://www.gutenberg.org/ebooks/48359) from [Project Gutenberg](http://www.gutenberg.org/wiki/Main_Page)
+- [Metamorphosis by Franz Kafka](http://www.gutenberg.org/ebooks/5200) from [Project Gutenberg](http://www.gutenberg.org/wiki/Main_Page)
+-[紅樓夢 by Xueqin Cao](http://www.gutenberg.org/ebooks/24264)
 
 If you are interested in how to work with the State of the Union addressed with the R programming language, see [my tutorial](https://programminghistorian.org/lessons/basic-text-processing-in-r) with Taylor Arnold on Programming Historian. 
 
