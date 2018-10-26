@@ -1,3 +1,7 @@
+# What is Text Analysis?
+
+Let's do a quick [overview](https://docs.google.com/presentation/d/18eOk7FDzQcDHLkY9PAu6euSZ-VXst_6rUA6RY442pXA/edit?usp=sharing)!
+
 # Text Analysis with Voyant 
 
 
