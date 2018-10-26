@@ -152,7 +152,8 @@ Other ideas:
 - [Don Quijote by Miguel de Cervantes Saavedra](http://www.gutenberg.org/ebooks/2000?msg=welcome_stranger) from [Project Gutenberg](http://www.gutenberg.org/wiki/Main_Page)
 - [Madame Bovary by Flaubert ](http://www.gutenberg.org/ebooks/48359) from [Project Gutenberg](http://www.gutenberg.org/wiki/Main_Page)
 - [Metamorphosis by Franz Kafka](http://www.gutenberg.org/ebooks/5200) from [Project Gutenberg](http://www.gutenberg.org/wiki/Main_Page)
--[紅樓夢 by Xueqin Cao](http://www.gutenberg.org/ebooks/24264)
+- [紅樓夢 by Xueqin Cao](http://www.gutenberg.org/ebooks/24264)
+- [Aeneidos by Virgil](http://www.gutenberg.org/ebooks/227)
 
 If you are interested in how to work with the State of the Union addressed with the R programming language, see [my tutorial](https://programminghistorian.org/lessons/basic-text-processing-in-r) with Taylor Arnold on Programming Historian. 
 
