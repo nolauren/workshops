@@ -163,6 +163,7 @@ Other ideas:
 - [Metamorphosis by Franz Kafka](http://www.gutenberg.org/ebooks/5200) from [Project Gutenberg](http://www.gutenberg.org/wiki/Main_Page)
 - [紅樓夢 by Xueqin Cao](http://www.gutenberg.org/ebooks/24264)
 - [Aeneidos by Virgil](http://www.gutenberg.org/ebooks/227)
+- [Proust - In Search of Lost Time](https://github.com/nolauren/workshops/blob/master/urdhpedagogy/files/proust.zip) - Broken up by paragraphs/ dialogue. File names do not include accents because of windows. 
 
 If you are interested in how to work with the State of the Union addressed with the R programming language, see [my tutorial](https://programminghistorian.org/lessons/basic-text-processing-in-r) with Taylor Arnold on Programming Historian. 
 
