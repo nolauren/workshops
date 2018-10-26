@@ -144,9 +144,14 @@ Let's take a look at the terms used by Washington and Obama.
 - Do we see particular phrases? 
 
 
-##### Explore!
+### All SOTU
 
 Interested in looking at all of the State of the Union addresses? Let's take a look!  [File names with President and Year](https://github.com/nolauren/2018introdh/blob/master/data/sotu-year-prez.zip) and [File names with Year](https://github.com/nolauren/2018introdh/blob/master/data/sotu-year.zip).
+
+And for metadata about the speeches, see [this spreadsheet](https://github.com/nolauren/workshops/blob/master/urdhpedagogy/files/sotu_meta.csv).
+
+
+##### Explore!
 
 Want to look at films plots from Wikipedia? Here you [go](https://github.com/dmics/voyant/blob/master/txt.zip)! 
 - The "all" folder includes the plots from each film nominated for an Academy Award.
