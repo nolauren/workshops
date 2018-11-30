@@ -72,3 +72,4 @@ and would be happy to talk more now or later about the right choice for your app
 ### Other
 
 [Data for Today](https://github.com/nolauren/workshops/blob/master/data/text-analysis.zip)
+[STAT 209 Syllabus](https://statsmaths.github.io/stat209-f18/)
