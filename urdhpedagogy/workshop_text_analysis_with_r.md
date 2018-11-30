@@ -68,3 +68,7 @@ Drawbacks of using a programming language:
 
 I'm sure there are more, particularly in the second set, that I have not thought of
 and would be happy to talk more now or later about the right choice for your application.
+
+### Other
+
+[Data for Today](https://github.com/nolauren/workshops/blob/master/data/text-analysis.zip)
