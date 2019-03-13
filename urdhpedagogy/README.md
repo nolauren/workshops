@@ -13,6 +13,6 @@
  
  - Finding Biblical Quotations in Historical Newspaper Corpora, Lincoln Mullen  (4:30 pm, Jepson 109)
 
-
 ### November 30: Text Analysis II 
 
+### February 8: Workshop Proposed DH Course Component
