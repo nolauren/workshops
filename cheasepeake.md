@@ -1,3 +1,22 @@
+Cheasepeake Digital Humanities Consortium Organizing Meeting
+
+
+- Location: University of Richmond
+- Date: Wednesday, May 29th
+- Questions: Lauren Tilton (ltilton@richmond.edu)
+
+
+#  History   
+
+In March 2018, a group from W&L, UVA, UR, and MITH convenied at the University of Virginia [to discuss the possiblity for a regional DH network](http://symposium.scholarslab.org/). The idea of  the Chesapeake Digital Humanities Consortium emerged. 
+
+# Goal
+
+Solidify and launch the Cheasepeake DH Consortium. Outcomes include:
+- Finalzing a mission statement.
+- Identifying priorities for the next several years. 
+- Determining a governance structure.
+- Developing a commmunications and membership outreach plan
 
 
 # Schedule
@@ -16,6 +35,18 @@
 | 5:00-7:00 |  Happy Hour
 
 
+# Attendees
+
+| School      | Members         |  
+| ------------- |-------------|
+| George Mason University | Lincoln Mullen | 
+| University of Richmond |Lauren Tilton, Taylor Arnold, Rob Nelson |
+| University of Virginia | Brandon Walsh |
+| Virginia Tech| Corinne Guimont |
+| William and Mary | Liz Losh, Alexandra Macdonald | 
+| Washington & Lee | Mackenzie Brooks, Paul Youngman  | 
 
 
-- [2018 Regional DH Symposium](http://symposium.scholarslab.org/schedule/)
+
+
+ 
