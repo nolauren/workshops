@@ -51,5 +51,5 @@ Solidify and launch the Cheasepeake DH Consortium. Outcomes include:
 ## Previous Documents
 
 - [Working document](https://docs.google.com/document/d/17Mwd7yjL04LtPdb3mXVb_7DfZ4p_dxCcCas4vqiqUSA/edit?usp=sharing) with a draft statement about purpose, membership, history from our last meeting. 
-- [2018 Regional Symposium]((http://symposium.scholarslab.org/)) 
+- [2018 Regional Symposium]((http://symposium.scholarslab.org/) 
  
