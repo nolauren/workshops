@@ -6,11 +6,11 @@
 - Questions: Lauren Tilton (ltilton@richmond.edu)
 
 
-#  History   
+##  History   
 
 In March 2018, a group from W&L, UVA, UR, and MITH convenied at the University of Virginia [to discuss the possiblity for a regional DH network](http://symposium.scholarslab.org/). The idea of  the Chesapeake Digital Humanities Consortium emerged. 
 
-# Goal
+## Goal
 
 Solidify and launch the Cheasepeake DH Consortium. Outcomes include:
 - Finalzing a mission statement.
@@ -19,7 +19,7 @@ Solidify and launch the Cheasepeake DH Consortium. Outcomes include:
 - Developing a commmunications and membership outreach plan
 
 
-# Schedule
+## Schedule
 
 | Schedule      | Notes         |  
 | ------------- |-------------| 
@@ -35,7 +35,7 @@ Solidify and launch the Cheasepeake DH Consortium. Outcomes include:
 | 5:00-7:00 |  Happy Hour
 
 
-# Attendees
+## Attendees
 
 | School      | Members         |  
 | ------------- |-------------|
@@ -48,7 +48,7 @@ Solidify and launch the Cheasepeake DH Consortium. Outcomes include:
 
 
 
-# Previous Documents
+## Previous Documents
 
 - [Working document](https://docs.google.com/document/d/17Mwd7yjL04LtPdb3mXVb_7DfZ4p_dxCcCas4vqiqUSA/edit?usp=sharing) with a draft statement about purpose, membership, history from our last meeting. 
 - [2018 Regional Symposium ((http://symposium.scholarslab.org/)) 
