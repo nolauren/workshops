@@ -40,9 +40,9 @@ Solidify and launch the Cheasepeake DH Consortium. Outcomes include:
 | School      | Members         |  
 | ------------- |-------------|
 | George Mason University | Lincoln Mullen | 
-| University of Richmond |Lauren Tilton, Taylor Arnold, Rob Nelson |
+| University of Richmond |Lauren Tilton, Taylor Arnold, Justin Madron |
 | University of Virginia | Brandon Walsh |
-| Virginia Tech| Corinne Guimont |
+| Virginia Tech| Corinne Guimont, LaDale Winling |
 | William and Mary | Liz Losh, Alexandra Macdonald | 
 | Washington & Lee | Mackenzie Brooks, Paul Youngman  | 
 
