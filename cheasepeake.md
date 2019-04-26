@@ -1,4 +1,4 @@
-Cheasepeake Digital Humanities Consortium Organizing Meeting
+# Cheasepeake DH Consortium Organizing Meeting
 
 
 - Location: University of Richmond
