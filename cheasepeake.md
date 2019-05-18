@@ -40,11 +40,15 @@ Solidify and launch the Cheasepeake DH Consortium. Outcomes include:
 | School      | Members         |  
 | ------------- |-------------|
 | George Mason University | Lincoln Mullen | 
+| Hampton University |  Maureen Englerman , Catherine Porter | 
+| James Madison University | Evan Friss, Kevin Hegg, Kirsten Mlodynia | 
 | University of Richmond |Lauren Tilton, Taylor Arnold, Justin Madron |
 | University of Virginia | Brandon Walsh |
+| Virginia Commonwealth University | Jeff Everhart, Erin White, John Glover | 
 | Virginia Tech| Corinne Guimont, LaDale Winling |
 | William and Mary | Liz Losh, Alexandra Macdonald | 
 | Washington & Lee | Mackenzie Brooks, Paul Youngman  | 
+
 
 
 
