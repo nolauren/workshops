@@ -59,3 +59,29 @@ Solidify and launch the Cheasepeake DH Consortium. Outcomes include:
 - [Working document](https://docs.google.com/document/d/17Mwd7yjL04LtPdb3mXVb_7DfZ4p_dxCcCas4vqiqUSA/edit?usp=sharing) with a draft statement about purpose, membership, and history from our last meeting. 
 - [2018 Regional Symposium](http://symposium.scholarslab.org/) 
  
+ 
+ ## Contact Info
+ 
+ 
+| Name      | Email         |  
+| ------------- |-------------|
+| Taylor Arnold | tarnold2@richmond.edu | 
+| Mackenzie Brooks  | brooksm@wlu.edu | 
+| Uzzie T. Cannon | utcannon@nsu.edu | 
+| Maureen Englerman | MAUREEN.ELGERSMANLEE@HAMPTONU.EDU|
+| Jeff Everhart |  jeverhart2@vcu.edu | 
+| Evan Friss | | 
+| John Glover | jglover2@vcu.edu |
+| Corinne Guimont  |  | 
+| Kevin Hegg | heggkj@jmu.edu |
+| Purdom Linblad | purdom@umd.edu| 
+| Liz Losh | emlosh@wm.edu |
+| Justin Madron | jmadron@richmond.edu | 
+| Alexandra Macdonald | ammacdonald@email.wm.edu |
+| Lincoln Mullen | lmullen@gmu.edu | 
+| Kirsten Mlodynia | |
+| Catherine Porter| CATHERINE.PORTER@HAMPTONU.EDU | 
+| Brandon Walsh | bmw9t@virginia.edu | 
+| Erin White | erwhite@vcu.edu | 
+| LaDale Winling | lwinling@vt.edu  | 
+| Paul Youngman | youngmanp@wlu.edu | 
