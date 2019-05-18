@@ -68,7 +68,7 @@ Solidify and launch the Cheasepeake DH Consortium. Outcomes include:
 | Taylor Arnold | tarnold2@richmond.edu | 
 | Mackenzie Brooks  | brooksm@wlu.edu | 
 | Uzzie T. Cannon | utcannon@nsu.edu | 
-| Maureen Englerman | MAUREEN.ELGERSMANLEE@HAMPTONU.EDU|
+| Maureen Englerman | Maureen.Elgersmanlee@hamptonu.edu |
 | Jeff Everhart |  jeverhart2@vcu.edu | 
 | Evan Friss | | 
 | John Glover | jglover2@vcu.edu |
@@ -80,7 +80,7 @@ Solidify and launch the Cheasepeake DH Consortium. Outcomes include:
 | Alexandra Macdonald | ammacdonald@email.wm.edu |
 | Lincoln Mullen | lmullen@gmu.edu | 
 | Kirsten Mlodynia | |
-| Catherine Porter| CATHERINE.PORTER@HAMPTONU.EDU | 
+| Catherine Porter| Catherine.Porter@hamptonu.edu | 
 | Brandon Walsh | bmw9t@virginia.edu | 
 | Erin White | erwhite@vcu.edu | 
 | LaDale Winling | lwinling@vt.edu  | 
