@@ -8,7 +8,7 @@
 
 ##  History   
 
-In March 2018, a group from W&L, UVA, UR, and MITH convenied at the University of Virginia [to discuss the possiblity for a regional DH network](http://symposium.scholarslab.org/). The idea of  the Chesapeake Digital Humanities Consortium emerged. 
+In March 2018, a group from W&L, UVA, UR, and MITH convenied at the University of Virginia [to discuss ways to collaborate across small liberal arts colleges and research-intensive universities](http://symposium.scholarslab.org/). The idea of a Chesapeake Digital Humanities Consortium emerged.   
 
 ## Goal
 
