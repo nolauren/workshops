@@ -12,11 +12,14 @@ In March 2018, a group from W&L, UVA, UR, and MITH convenied at the University o
 
 ## Goal
 
+Opportunity to bring together DHers from across the region. 
+
 Solidify and launch the Cheasepeake DH Consortium. Outcomes include:
 - Finalzing a mission statement.
 - Identifying priorities for the next several years. 
 - Determining a governance structure.
-- Developing a commmunications and membership outreach plan
+- Developing a commmunications and membership outreach plan.
+
 
 
 ## Schedule
@@ -58,6 +61,13 @@ Solidify and launch the Cheasepeake DH Consortium. Outcomes include:
 
 - [Working document](https://docs.google.com/document/d/17Mwd7yjL04LtPdb3mXVb_7DfZ4p_dxCcCas4vqiqUSA/edit?usp=sharing) with a draft statement about purpose, membership, and history from our last meeting. 
 - [2018 Regional Symposium](http://symposium.scholarslab.org/) 
+
+## Other Networks/ Models
+
+- [Boston DH](http://bostondh.org/)
+- [NYC DH](https://nycdh.org/)
+- [Triange DH Network](http://triangledh.org)
+
  
  
  ## Contact Info
