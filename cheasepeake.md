@@ -64,22 +64,28 @@ Solidify and launch the Cheasepeake DH Consortium. Outcomes include:
 
 ## Other Networks/ Models
 
-- [Boston DH Consortium](http://bostondh.org/) | 
-- [Detroit DH](http://detroitdh.org/)
+- [Boston DH Consortium](http://bostondh.org/) | @Boston_DH
+- [Detroit DH](http://detroitdh.org/) | @DetroitDH
 - [Florida DH](https://fldh.org/)
-- [Five Colleges Blended Learning and Digital Humanities](5collbldh.org)
-- [Keystone DH](http://keystonedh.network)
-- [NYC DH](https://nycdh.org/)
-- [TxDHC](txdhc.org)
+- [Five Colleges Blended Learning and Digital Humanities](5collbldh.org) | @5collBLDH
+- [Keystone DH](http://keystonedh.network) | @KeystoneDH
+- [NYC DH](https://nycdh.org/) | @nycdh
+- [Greater Philadelphia Digital Humanities Group](https://groups.google.com/forum/#!forum/phillydigitalhumanities) | @PhillyDHtweets
+- [TxDHC](txdhc.org) | @TxDHC
 - [Triange DH Network](http://triangledh.org)
 
 - [Asociación Argentina de Humanidades Digitales](http://aahd.net.ar/)
+- [Network Digital Humanities Potsdam Universities/Netzwerk für Digitale Geisteswissenschaften am Hochschulstandort Potsdam ](https://t.co/rXqIpAdNwu) | @DH_Potsdam
 
 This list does not include associations formally recognized by [Alliance of Digital Humanities Oorganizations](https://adho.org/). 
+
+For a list of Twitter handles created by dh+lib, visit [here](https://twitter.com/DHandLib/lists/local-dh-groups/members).
 
 In process:
 - NY DH (New York State)
  
+ Inactive:
+ - - [DH SoCal](http://dhsocal.blogspot.com/) | @dhsocal
  
  ## Contact Info
  
