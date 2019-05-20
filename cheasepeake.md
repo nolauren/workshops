@@ -42,7 +42,7 @@ Solidify and launch the Cheasepeake DH Consortium. Outcomes include:
 
 | School      | Members         |  
 | ------------- |-------------|
-| George Mason University | Lincoln Mullen | 
+| George Mason University | Alyssa Fahringer, Wendy Mann, Lincoln Mullen | 
 | Hampton University |  Maureen Englerman , Catherine Porter | 
 | James Madison University | Evan Friss, Kevin Hegg, Kirsten Mlodynia |
 | Norkfolk State University | Uzzie T. Cannon |
@@ -80,6 +80,7 @@ Solidify and launch the Cheasepeake DH Consortium. Outcomes include:
 | Uzzie T. Cannon | utcannon@nsu.edu | 
 | Maureen Englerman | Maureen.Elgersmanlee@hamptonu.edu |
 | Jeff Everhart |  jeverhart2@vcu.edu | 
+| Alyssa Fahringer | afahring@gmu.edu |
 | Evan Friss | | 
 | John Glover | jglover2@vcu.edu |
 | Corinne Guimont  |  | 
@@ -88,6 +89,7 @@ Solidify and launch the Cheasepeake DH Consortium. Outcomes include:
 | Liz Losh | emlosh@wm.edu |
 | Justin Madron | jmadron@richmond.edu | 
 | Alexandra Macdonald | ammacdonald@email.wm.edu |
+| Wendy Mann | wmann@gmu.edu | 
 | Lincoln Mullen | lmullen@gmu.edu | 
 | Kirsten Mlodynia | |
 | Catherine Porter| Catherine.Porter@hamptonu.edu | 
