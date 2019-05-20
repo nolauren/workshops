@@ -64,10 +64,21 @@ Solidify and launch the Cheasepeake DH Consortium. Outcomes include:
 
 ## Other Networks/ Models
 
-- [Boston DH](http://bostondh.org/)
+- [Boston DH Consortium](http://bostondh.org/) | 
+- [Detroit DH](http://detroitdh.org/)
+- [Florida DH](https://fldh.org/)
+- [Five Colleges Blended Learning and Digital Humanities](5collbldh.org)
+- [Keystone DH](http://keystonedh.network)
 - [NYC DH](https://nycdh.org/)
+- [TxDHC](txdhc.org)
 - [Triange DH Network](http://triangledh.org)
 
+- [Asociación Argentina de Humanidades Digitales](http://aahd.net.ar/)
+
+This list does not include associations formally recognized by [Alliance of Digital Humanities Oorganizations](https://adho.org/). 
+
+In process:
+- NY DH (New York State)
  
  
  ## Contact Info
