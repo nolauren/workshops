@@ -3,8 +3,11 @@
 
 - Location: University of Richmond
 - Date: Wednesday, May 29th
+- Location:  Jepson School of Leadership Faculty Seminar Room 127. (Google maps: [Jepson School of Leadership,  410 Westhampton Way University of Richmond, VA 23173)](https://www.google.com/maps/place/Jepson+School+of+Leadership+Studies/@37.5784718,-77.5396841,17z/data=!3m1!4b1!4m5!3m4!1s0x89b114985d9f1eeb:0x83808819ad97bd96!8m2!3d37.5784718!4d-77.5374954).
+- Parking: Lot V ; We will have parking passes for your car.  
 - Questions: Lauren Tilton (ltilton@richmond.edu)
 
+![](https://github.com/nolauren/workshops/blob/master/img/campus.jpg)
 
 ##  History   
 
