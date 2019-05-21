@@ -77,7 +77,7 @@ Solidify and launch the Cheasepeake DH Consortium. Outcomes include:
 - [Asociación Argentina de Humanidades Digitales](http://aahd.net.ar/)
 - [Network Digital Humanities Potsdam Universities/Netzwerk für Digitale Geisteswissenschaften am Hochschulstandort Potsdam ](https://t.co/rXqIpAdNwu) | @DH_Potsdam
 
-This list does not include associations formally recognized by [Alliance of Digital Humanities Oorganizations](https://adho.org/). 
+This list is not exhaustive and being updated. The list does not include associations formally recognized by [Alliance of Digital Humanities Oorganizations](https://adho.org/). 
 
 For a list of Twitter handles created by dh+lib, visit [here](https://twitter.com/DHandLib/lists/local-dh-groups/members).
 
