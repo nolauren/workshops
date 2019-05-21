@@ -38,7 +38,7 @@ Solidify and launch the Cheasepeake DH Consortium. Outcomes include:
 | 3:00-4:00   |  Working Group 3: Communications or Working Group 4: Membership and Outreach | 
 | 4:00-4:30  | Next Steps |
 | 4:30-5:00 | Closing |
-| 5:00-7:00 |  Happy Hour
+| 5:00-7:00 |  Happy Hour - Beijing On Grove (5710 Grove Ave) |
 
 
 ## Attendees
@@ -49,8 +49,8 @@ Solidify and launch the Cheasepeake DH Consortium. Outcomes include:
 | Hampton University |  Maureen Englerman , Catherine Porter | 
 | James Madison University | Evan Friss, Kevin Hegg, Kirsten Mlodynia |
 | Norkfolk State University | Uzzie T. Cannon |
-| University of Maryland | Purdom Linbold | 
-| University of Richmond |Lauren Tilton, Taylor Arnold, Justin Madron, Charlie Sears |
+| University of Maryland | Kirsten Kiester, Purdom Linbold | 
+| University of Richmond |Lauren Tilton, Taylor Arnold, Justin Madron, Nate Ayers, Charlie Sears |
 | University of Virginia | Brandon Walsh |
 | Virginia Commonwealth University | Jeff Everhart, Erin White, John Glover | 
 | Virginia Tech| Corinne Guimont, LaDale Winling |
@@ -96,6 +96,7 @@ In process:
 | Name      | Email         |  
 | ------------- |-------------|
 | Taylor Arnold | tarnold2@richmond.edu | 
+| Nate Ayers | nayers@richmond.edu | 
 | Mackenzie Brooks  | brooksm@wlu.edu | 
 | Uzzie T. Cannon | utcannon@nsu.edu | 
 | Maureen Englerman | Maureen.Elgersmanlee@hamptonu.edu |
@@ -105,6 +106,7 @@ In process:
 | John Glover | jglover2@vcu.edu |
 | Corinne Guimont  |  | 
 | Kevin Hegg | heggkj@jmu.edu |
+| Kirsten Kiester | kkeister@umd.edu | 
 | Purdom Linblad | purdom@umd.edu| 
 | Liz Losh | emlosh@wm.edu |
 | Justin Madron | jmadron@richmond.edu | 
