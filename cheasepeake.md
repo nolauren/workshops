@@ -47,7 +47,7 @@ Solidify and launch the Cheasepeake DH Consortium. Outcomes include:
 | ------------- |-------------|
 | George Mason University | Alyssa Fahringer, Wendy Mann, Lincoln Mullen | 
 | Hampton University |  Maureen Englerman , Catherine Porter | 
-| James Madison University | Evan Friss, Kevin Hegg, Kirsten Mlodynia |
+| James Madison University | Kevin Hegg, Kirsten Mlodynia |
 | Norkfolk State University | Uzzie T. Cannon |
 | University of Maryland | Kirsten Kiester, Purdom Linbold | 
 | University of Richmond |Lauren Tilton, Taylor Arnold, Justin Madron, Nate Ayers, Charlie Sears |
@@ -102,9 +102,8 @@ In process:
 | Maureen Englerman | Maureen.Elgersmanlee@hamptonu.edu |
 | Jeff Everhart |  jeverhart2@vcu.edu | 
 | Alyssa Fahringer | afahring@gmu.edu |
-| Evan Friss | | 
 | John Glover | jglover2@vcu.edu |
-| Corinne Guimont  |  | 
+| Corinne Guimont  | gcorinne@vt.edu | 
 | Kevin Hegg | heggkj@jmu.edu |
 | Kirsten Kiester | kkeister@umd.edu | 
 | Purdom Linblad | purdom@umd.edu| 
@@ -113,7 +112,7 @@ In process:
 | Alexandra Macdonald | ammacdonald@email.wm.edu |
 | Wendy Mann | wmann@gmu.edu | 
 | Lincoln Mullen | lmullen@gmu.edu | 
-| Kirsten Mlodynia | |
+| Kirsten Mlodynia | helferkn@jmu.edu |
 | Catherine Porter| Catherine.Porter@hamptonu.edu | 
 | Brandon Walsh | bmw9t@virginia.edu | 
 | Erin White | erwhite@vcu.edu | 
