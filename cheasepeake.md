@@ -106,15 +106,16 @@ In process:
 | Corinne Guimont  | gcorinne@vt.edu | 
 | Kevin Hegg | heggkj@jmu.edu |
 | Kirsten Kiester | kkeister@umd.edu | 
-| Purdom Linblad | purdom@umd.edu| 
+| Purdom Linblad | purdom@umd.edu| Purdom_L | 
 | Liz Losh | emlosh@wm.edu |
-| Justin Madron | jmadron@richmond.edu | 
-| Alexandra Macdonald | ammacdonald@email.wm.edu |
+| Justin Madron | jmadron@richmond.edu | @justinmadron | 
+| Alexandra Macdonald | ammacdonald@email.wm.edu | @AliMicMac | 
 | Wendy Mann | wmann@gmu.edu | 
 | Lincoln Mullen | lmullen@gmu.edu | 
 | Kirsten Mlodynia | helferkn@jmu.edu |
 | Catherine Porter| Catherine.Porter@hamptonu.edu | 
+| Lauren Tilton  | ltilton@richmond.edu |  @nolauren | 
 | Brandon Walsh | bmw9t@virginia.edu | 
-| Erin White | erwhite@vcu.edu | 
+| Erin White | erwhite@vcu.edu | erinrwhite | 
 | LaDale Winling | lwinling@vt.edu  | 
-| Paul Youngman | youngmanp@wlu.edu | 
+| Paul Youngman | youngmanp@wlu.edu | @lwinling | 
