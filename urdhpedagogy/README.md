@@ -2,7 +2,7 @@
 
 ### August 20-21: [DH Pedagogy Seminar](https://github.com/nolauren/workshops/blob/master/urdhpedagogy/2dayseminar.md)
 
-### August 31: Mapping (Carto)
+### August 31: Mapping (ESRI ArcGIS Online and StoryMaps)
 
 ### October 26: Text Analysis (Data Prep, Voyant)
 
@@ -15,4 +15,4 @@
 
 ### November 30: Text Analysis II (R)
 
-### February 8: Workshop Proposed DH Course Component
+### February 8:  Proposed DH Course Workshop
