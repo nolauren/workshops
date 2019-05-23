@@ -51,7 +51,7 @@ Solidify and launch the Cheasepeake DH Consortium. Outcomes include:
 | Norkfolk State University | Uzzie T. Cannon |
 | University of Maryland | Kirsten Kiester, Purdom Linbold | 
 | University of Richmond |Lauren Tilton, Taylor Arnold, Justin Madron, Nate Ayers, Charlie Sears |
-| University of Virginia | Brandon Walsh |
+| University of Virginia | Laura Miller, Amanda Visconti, Brandon Walsh |
 | Virginia Commonwealth University | Jeff Everhart, Erin White, John Glover | 
 | Virginia Tech| Corinne Guimont, LaDale Winling |
 | William and Mary | Liz Losh, Alexandra Macdonald | 
@@ -111,10 +111,12 @@ In process:
 | Justin Madron | jmadron@richmond.edu | @justinmadron | 
 | Alexandra Macdonald | ammacdonald@email.wm.edu | @AliMicMac | 
 | Wendy Mann | wmann@gmu.edu | 
+| Laura Miller | lam2c@virginia.edu |
 | Lincoln Mullen | lmullen@gmu.edu | 
 | Kirsten Mlodynia | helferkn@jmu.edu |
 | Catherine Porter| Catherine.Porter@hamptonu.edu | 
 | Lauren Tilton  | ltilton@richmond.edu |  @nolauren | 
+| Amanda Visconti | abv6x@virginia.edu | 
 | Brandon Walsh | bmw9t@virginia.edu | 
 | Erin White | erwhite@vcu.edu | erinrwhite | 
 | LaDale Winling | lwinling@vt.edu  | 
