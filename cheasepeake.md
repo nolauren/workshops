@@ -88,13 +88,13 @@ In process:
 - NY DH (New York State)
  
  Inactive:
- - - [DH SoCal](http://dhsocal.blogspot.com/) | @dhsocal
+ - [DH SoCal](http://dhsocal.blogspot.com/) | @dhsocal
  
  ## Contact Info
  
  
-| Name      | Email         |  
-| ------------- |-------------|
+| Name      | Email         |  Twitter |
+| ------------- |-------------|-------------|
 | Taylor Arnold | tarnold2@richmond.edu | 
 | Nate Ayers | nayers@richmond.edu | 
 | Mackenzie Brooks  | brooksm@wlu.edu | 
@@ -106,7 +106,7 @@ In process:
 | Corinne Guimont  | gcorinne@vt.edu | 
 | Kevin Hegg | heggkj@jmu.edu |
 | Kirsten Kiester | kkeister@umd.edu | 
-| Purdom Linblad | purdom@umd.edu| Purdom_L | 
+| Purdom Linblad | purdom@umd.edu| @Purdom_L | 
 | Liz Losh | emlosh@wm.edu |
 | Justin Madron | jmadron@richmond.edu | @justinmadron | 
 | Alexandra Macdonald | ammacdonald@email.wm.edu | @AliMicMac | 
