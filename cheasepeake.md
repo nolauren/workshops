@@ -39,6 +39,9 @@ Solidify and launch the Cheasepeake DH Consortium. Outcomes include:
 | 4:30-5:00 | Closing |
 | 5:00-7:00 |  Happy Hour - Beijing On Grove (5710 Grove Ave) |
 
+## Community Notes
+
+[Google Doc](https://docs.google.com/document/d/12gU4CwEwmg3cwVQ-8nUv3JvaCgc3Ie_m1lsWILUXQW8/edit?usp=sharing) for notes.
 
 ## Attendees
 
