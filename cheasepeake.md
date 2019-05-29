@@ -93,31 +93,31 @@ In process:
  ## Contact Info
  
  
-| Name      | Email         |  Twitter |
-| ------------- |-------------|-------------|
-| Taylor Arnold | tarnold2@richmond.edu | 
-| Nate Ayers | nayers@richmond.edu | 
-| Mackenzie Brooks  | brooksm@wlu.edu | 
-| Uzzie T. Cannon | utcannon@nsu.edu | 
-| Maureen Englerman | Maureen.Elgersmanlee@hamptonu.edu |
-| Jeff Everhart |  jeverhart2@vcu.edu | 
-| Alyssa Fahringer | afahring@gmu.edu |
-| John Glover | jglover2@vcu.edu |
-| Corinne Guimont  | gcorinne@vt.edu | 
-| Kevin Hegg | heggkj@jmu.edu |
-| Kirsten Kiester | kkeister@umd.edu | 
-| Purdom Linblad | purdom@umd.edu| @Purdom_L | 
-| Liz Losh | emlosh@wm.edu |
-| Justin Madron | jmadron@richmond.edu | @justinmadron | 
-| Alexandra Macdonald | ammacdonald@email.wm.edu | @AliMicMac | 
-| Wendy Mann | wmann@gmu.edu | 
-| Laura Miller | lam2c@virginia.edu |
-| Lincoln Mullen | lmullen@gmu.edu | 
+| Name      | Email         |  Twitter | Brief Bio | 
+| ------------- |-------------|-------------|-------- | 
+| Taylor Arnold | tarnold2@richmond.edu | @statsmaths | Assitant Professor of Statistics in the UR Department of Math and Computer Science. Speacialize in text and image analysis. Co-Director of the Distant Viewing Lab | 
+| Nate Ayers | nayers@richmond.edu | |  Member of the UR DSL | 
+| Mackenzie Brooks  | brooksm@wlu.edu | @mackymoo | Associate Professor & Digital Humanities Librarian. I teach courses in our Digital Culture & Information minor and support DH initiatives at W&L.  | 
+| Uzzie T. Cannon | utcannon@nsu.edu | @ablueslenz | I am an Associate Professor of English and Digital Humanities who focuses on the intersections of form, gender, and narrative in African American Literature and Culture. I also like to build interactive, informational, and wide-audience based DH tools and resources. Digital photography is a passion for me when not engaged in teaching and research. | 
+| Jeff Everhart |  jeverhart2@vcu.edu | @J_Everhart383 | I'm a web developer with the ALT Lab at VCU, where we build interactive course experiences using WordPress and other open source web technologies. In the past, I've taught courses in English literature and interdisciplinary research, both online and face-to-face. My DH interests include the use of GIS and mapping technologies and natural language processing, among other things.  | 
+| Alyssa Fahringer | afahring@gmu.edu | @alyssafahringer | Digital Scholarship Consultant, Digital Scholarship Center, George Mason University Libraries | 
+| John Glover | jglover2@vcu.edu | @smythsewn| Humanities Research Librarian. At VCU since 2006, Seattle native, background in Ancient History and Classics. These days mostly working on literary horror and outreach/liaison stuff.| 
+| Corinne Guimont  | gcorinne@vt.edu | |
+| Kevin Hegg | heggkj@jmu.edu | @@kevin_j_h | Kevin Hegg is a veteran IT professional and problem solver with a humanities degree from the University of Wyoming. After supervising a team of software developers and systems administrators for nearly two decades, he now serves as Director of Digital Projects in the JMU Libraries. In this position, he works closely with faculty and students using established and emerging technology in research and instruction. Current interests include Python, GIS, data visualization, machine learning, and digital-only archives. | 
+| Kirsten Kiester | kkeister@umd.edu | |
+| Maureen Englerman Lee | Maureen.Elgersmanlee@hamptonu.edu | | Maureen Elgersman Lee is currently an associate professor of history at Hampton University. Her research focuses on Blacks and women in Canada, the United States, and the British Caribbean. She has also be involved in various public and community history projects/publications.|
+| Purdom Linblad | purdom@umd.edu| @Purdom_L | |
+| Liz Losh | emlosh@wm.edu | @lizlosh | "Elizabeth Losh is an Associate Professor of English and American Studies at William and Mary with a specialization in New Media Ecologies.  Before coming to William and Mary, she directed the Culture, Art, and Technology Program at the University of California, San Diego.  She is the is the author of Virtualpolitik: An Electronic History of Government Media-Making in a Time of War, Scandal, Disaster, Miscommunication, and Mistakes (MIT Press, 2009), The War on Learning: Gaining Ground in the Digital University (MIT Press, 2014), and Hashtag (Bloomsbury, 2019). She is the co-author with Jonathan Alexander of Understanding Rhetoric: A Graphic Guide to Writing (Bedford/St. Martin's, 2013; second edition, 2017). She published the edited collection MOOCs and Their Afterlives: Experiments in Scale and Access in Higher Education (University of Chicago, 2017), and she is co-editor of Bodies of Information: Intersectional Feminism and Digital Humanities (Minnesota, 2018)" | 
+| Justin Madron | jmadron@richmond.edu | @justinmadron | GIS Project Manager & Analyst at the Digital Scholarship Lab. I'm interested in the geohumanities and applying spatial technologies to solve problems.  | 
+| Alexandra Macdonald | ammacdonald@email.wm.edu | @AliMicMac | I received both a BA (Honours with Distinction) and an MA in Art History and Visual Studies from the University of Victoria (Canada) and am now a PhD student at William & Mary. Common themes running through my scholarly work include the relationship between gender and material culture in the long eighteenth-century, the intersections of material and intellectual culture, and the role(s) of space in the British Atlantic World.  | 
+| Wendy Mann | wmann@gmu.edu | @wendora237 | Wendy Mann is the Director of the Digital Scholarship Center at George Mason University Libraries. She holds a Master's of Public Policy from George Mason University and a Master's of Library Science from the University of Pittsburgh. Her areas of specialization include: research data management and archiving, data acquisition, data visualization, and GIS. | 
+| Laura Miller | lam2c@virginia.edu | @@martofmiller | "As Head of Public Services in the Scholars' Lab, my main goal is to foster and grow that community. I convene our speaker events and workshops, designed to connect researchers - at all levels - with expertise, training, and intellectual discourse.  I also manage our Makerspace and serve as the primary point of contact between the Scholars’ Lab and broader library services. I have a BA in English from the College of William and Mary, and Masters in Library and Information Science from the Florida State University, with a concentration in Management and Organizational Design." | 
+| Lincoln Mullen | lmullen@gmu.edu | | I am an associate professor in the Department of History and Art History at George Mason University and the directory of computational history at the Roy Rosenzweig Center for History and New Media. | 
 | Kirsten Mlodynia | helferkn@jmu.edu |
-| Catherine Porter| Catherine.Porter@hamptonu.edu | 
-| Lauren Tilton  | ltilton@richmond.edu |  @nolauren | 
-| Amanda Visconti | abv6x@virginia.edu | 
-| Brandon Walsh | bmw9t@virginia.edu | 
-| Erin White | erwhite@vcu.edu | erinrwhite | 
-| LaDale Winling | lwinling@vt.edu  | 
-| Paul Youngman | youngmanp@wlu.edu | @lwinling | 
+| Catherine Lee Porter| Catherine.Porter@hamptonu.edu | @catherine_lee_p | I am an Assistant Professor of History at Hampton University. I am currently working on a manuscript, which is taken from my doctoral dissertation about political authority and local identity during the Katangan Secession in a socio-cultural aspect.  More generally, I am interested in the development of identity and nationalist movements in various political movements involving politics, society, and culture in decolonizing Africa.   | 
+| Lauren Tilton  | ltilton@richmond.edu |  @nolauren |  Assistant Professor of Digital Huamanities. Co-Director of Photogrammar and Distant Viewing Lab. | 
+| Amanda Visconti | abv6x@virginia.edu | @literature_geek | Dr. Amanda Visconti is Managing Director of the Scholars’ Lab, where she focuses on the scholarship of experimental and digital humanities policy and practice. She holds a Literature Ph.D. from the University of Maryland and an M.S. in Information from the University of Michigan. She has also worked as a professional web developer for over 10 years, with specialization in online knowledge-building communities, meaningful crowdsourcing websites, and reading/annotation interfaces. | 
+| Brandon Walsh | bmw9t@virginia.edu | @walshbr | Brandon Walsh is the Head of Student Programs in the Scholars' Lab at the University of Virginia Library. Prior to that, he was Visiting Assistant Professor of English and Mellon Digital Humanities Fellow in the Washington and Lee University Library. He received his PhD and MA from the Department of English at the University of Virginia, and his research these days tends towards the intersections of digital pedagogy and digital humanities.  | 
+| Erin White | erwhite@vcu.edu | @erinrwhite | As head of the Digital Engagement department at VCU Libraries, I direct strategies for web infrastructure, digitization, digital collections and digital scholarship for VCU Libraries.  I'm deeply interested in the intersections of social justice and the digital world, and I present and write about library IT management, user experience, critical digital scholarship and diversity and inclusion in libraries. | 
+| LaDale Winling | lwinling@vt.edu  | @lwinling | Associate Professor of History at Virginia Tech.  Author of Building the Ivory Tower (Penn Press, 2017).| 
+| Paul Youngman | youngmanp@wlu.edu | @lwinling | I am Redenbaugh Professor of German and Associate Provost. | 
