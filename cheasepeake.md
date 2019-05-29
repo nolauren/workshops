@@ -31,8 +31,7 @@ Solidify and launch the Cheasepeake DH Consortium. Outcomes include:
 | ------------- |-------------| 
 | 10:00-10:30   | Introductions |  
 | 10:30-11:00   | History and Mission Statement | 
-| 11:00-12:00   | Priorities |
-| 12:00-1:00   | Governance, Communications and Membership |
+| 11:00-1:00   | Priorities |
 | 1:00-2:00   | Lunch   |  
 | 2:00-3:00   |  Working Group 1: Governance or Working Group 2: Mission Statement    |
 | 3:00-4:00   |  Working Group 3: Communications or Working Group 4: Membership and Outreach | 
