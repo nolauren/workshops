@@ -1,1 +1,19 @@
 
+## Day 1
+*Introductions*
+
+*Community Guidelines*
+- When referring to own research as an example, draw on examples that would be of benefit to the group.
+- When referring to another person’s idea, draw on their contributions to the conversation and give credit for the idea. 
+- Assess whether the question would be of benefit to the larger group. It maybe could wait for a private conversation. 
+- Be polite. 
+- Awareness of different professional backgrounds of participants. 
+- Please wait til the speaker is finished their thoughts. Raising one’s hand is one option.
+- Ask questions! 
+- Awareness that English is not everyone’s first language. 
+- Humor!
+- Save side conversations for coffee hour. 
+- Make sure everyone is at the same point. 
+- Drive your own computer. 
+
+*What is Humanities Data?*
