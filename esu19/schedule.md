@@ -36,4 +36,4 @@
 - [Slides](https://docs.google.com/presentation/d/1fwFtEfneqd_sFEIxYBk_3xBnaOWr_Mepgx_fwTQVCks/edit?usp=sharing)
 
 *Voyant Lab*
--[Lab](https://github.com/nolauren/workshops/blob/master/esu19/lab_voyant.md)
+- [Lab](https://github.com/nolauren/workshops/blob/master/esu19/lab_voyant.md)
