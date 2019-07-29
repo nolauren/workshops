@@ -17,3 +17,17 @@
 - Drive your own computer. 
 
 *What is Humanities Data?*
+- [Slides](https://docs.google.com/presentation/d/1L5zp7CjSc4R3byxoJr61RBv-BjRY97gKSzzgdHmsSL4/edit?usp=sharing)
+
+
+## Day 2
+
+*Tidy Data*
+-[Slides](https://docs.google.com/presentation/d/1VoEIt-LCD8e5pQR6sR22NoRF2YmLKdb3yPTbTnh2LDI/edit?usp=sharing)
+
+*Open Refine*
+- [Slides](https://docs.google.com/presentation/d/16IUSOblKuo0sAT10S3d1oOAAlP3W_2vvqhDdtYJLIn8/edit?usp=sharing)
+
+
+
+## Day 3
