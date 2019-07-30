@@ -22,7 +22,7 @@ Flourish is a visualization and storytelling platform. It is a freemium product.
 
 Set-up an account [here](https://flourish.studio/).
 
-We recognize that a personal account is expensive. The goal of this workshop 
+We recognize that a personal account is expensive. The goal of this workshop is not to focus on the tool but of exploratory data viz. 
 
 It is partially modeled on the Leland Wilkinson's Grammar of Graphics, which is foundational to exploratory data analysis (EDA) in the field of Statistics; this is also the basis for the very popular R visualization ggplot. The idea is that you take a geometry (ex. points, lines, maps, etc) and then you map the variable into the aesthetics. For example, we can select a scatter plot (geometry) and map the movie data (variables) and select how we want the visualize to look (aesthetics).  
 
