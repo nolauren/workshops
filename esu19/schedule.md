@@ -27,7 +27,7 @@
 
 *Open Refine*
 - [Slides](https://docs.google.com/presentation/d/16IUSOblKuo0sAT10S3d1oOAAlP3W_2vvqhDdtYJLIn8/edit?usp=sharing)
-
+- Download [here](http://openrefine.org/download.html).
 
 
 ## Day 3
