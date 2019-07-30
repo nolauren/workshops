@@ -36,5 +36,4 @@ Using our data set, let's explore some of the visualizations in the tool!
 - Country by Genre
 - Mapping
 
-Now explore on your own!
-
+Now explore in groups of 2. In 20 minutes, be prepared to share what you have discovered!
