@@ -29,6 +29,7 @@
 *Tidy Data*
 
 *Flourish*
+- [Lab](https://github.com/nolauren/workshops/blob/master/esu19/DataViz.md)
 
 ## Day 4
 *Open Refine*
