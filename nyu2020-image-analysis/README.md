@@ -1,6 +1,4 @@
-# Image Analysis with Deep Learning
-
-[Taylor Arnold](https://statsmaths.github.io), Assistant Professor of Statistics, [@statsmaths](https://twitter.com/statsmaths)
+# Image Analysis
 
 [Lauren Tilton](https://laurentilton.com), Assistant Professor of Digital Humanities, [@nolauren](https://twitter.com/nolauren)
 
