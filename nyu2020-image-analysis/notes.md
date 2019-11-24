@@ -15,3 +15,8 @@
 
 # Projects
 - [Bonetrade](https://bonetrade.github.io/)
+
+
+# Random Resources
+- (How the BBC Visual and Data Journalism team works with graphics in R)[https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535]
+- (R Cookbook)[https://bbc.github.io/rcookbook/]
