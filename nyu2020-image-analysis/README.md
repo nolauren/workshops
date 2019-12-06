@@ -4,15 +4,11 @@
 
 This repository contains notes, code, and data for the NYU Abu Dhabi 2020 workshop,
 which runs from 19-22 January on the campus of New York University in Abu Dhabi. Feel
-free to use/share/adopt these notes for other courses.
+free to use/share/adopt these notes for other courses. For more information on the Winter Instutue, visit https://wp.nyu.edu/widh/.
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 ---
-
-## Community Expectations
-We will create our expectations together. 
-
 
 ## Description
 
@@ -22,31 +18,6 @@ image similarity, and feature detection such as faces and objects.
 The workshop will use out-of-the-box toolkits and programming in R; 
 it is designed for participants with no programming experience.
 
-## Goals
-
-There are many reasons that humanists might engage in image analysis.
-We often characterize these into three categories:
-
-- **Browse/ Exploration**: Using image analysis to open up exploration of a series of images.
-- **Domain Specific Analysis**: Analyzing a feature or set of features in order to answer a
-domain specific set of questions (ex. use of color in Film Studies)
-- **Critical Data Studies**: Many of the applications of large-scale data analysis and
-algorithmic decision making involve the usage of image analysis.
-
-If you have any further questions or concerns, please let us know!
-
-## Software
-
-We will be using the R and Python programming language for the workshop, as well as
-several third-party packages. All of it is free and open source. Here is the
-link to the Anaconda version of Python that we suggest you use:
-
-- [Anaconda Python 3.7](https://www.anaconda.com/)
-
-We will help you set-up these libraries in the workshop, though please make sure
-your operating system is up-to-date (in particular, you will need macOS 10.13 or
-10.14 for the libraries to work properly). If you have a previous version of
-Anaconda, we generally suggest that you start from scratch.
 
 ## Schedule — Overview
 
@@ -77,25 +48,15 @@ with moving images; face detection
 If there is something particular you would like us to show or would like to make
 sure that we get to, please let us know as soon as possible.
 
+## Community Expectations
+We will create our expectations together. 
+
+
 ## Following along at home
 
 If you would like to follow these notes on your own, start by cloning the repository
 or downloading the notes as a zip file (see the green "Clone or download button" above).
 
-## Exploring Projects
-
-In a group of 3, explore 1-2 of the projects below and answer the following:
-
-- Identify the aim(s) of the project.
-- Identify the types of image analysis used.
-- What can one learn from the use of image analysis?
-- Could you see the method(s) used being useful for other projects?
-
-Projects:
-- Cooper Hewitt: [main site](https://collection.cooperhewitt.org/)
-- Film Colors: [main site](https://filmcolors.org/about/)
-- Photogrammar Color Space: [main site](http://photogrammar.yale.edu/) and [Color Space Lab](http://photogrammar.yale.edu/labs/colorspace/)
-- Vogue: [main site](http://dh.library.yale.edu/projects/vogue/), [slice histograms](http://dh.library.yale.edu/projects/vogue/slice_histograms/), and [covers](http://dh.library.yale.edu/projects/vogue/coveraverages/)
 
 ## References
 
@@ -134,3 +95,30 @@ involved.
 - Please only drive your computer. You are more than welcome to explain to your neighbors
 what is going on in their notebook, but we want everyone to feel comfortable working
 with the code themselves.
+
+## Goals
+
+There are many reasons that humanists might engage in image analysis.
+We often characterize these into three categories:
+
+- **Browse/ Exploration**: Using image analysis to open up exploration of a series of images.
+- **Domain Specific Analysis**: Analyzing a feature or set of features in order to answer a
+domain specific set of questions (ex. use of color in Film Studies)
+- **Critical Data Studies**: Many of the applications of large-scale data analysis and
+algorithmic decision making involve the usage of image analysis.
+
+If you have any further questions or concerns, please let us know!
+
+## Software
+
+We will be using the R and Python programming language for the workshop, as well as
+several third-party packages. All of it is free and open source. Here is the
+link to the Anaconda version of Python that we suggest you use:
+
+- [Anaconda Python 3.7](https://www.anaconda.com/)
+
+We will help you set-up these libraries in the workshop, though please make sure
+your operating system is up-to-date (in particular, you will need macOS 10.13 or
+10.14 for the libraries to work properly). If you have a previous version of
+Anaconda, we generally suggest that you start from scratch.
+
