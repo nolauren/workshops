@@ -3,70 +3,24 @@
 [Lauren Tilton](https://laurentilton.com), Assistant Professor of Digital Humanities, [@nolauren](https://twitter.com/nolauren)
 
 This repository contains notes, code, and data for the NYU Abu Dhabi 2020 workshop,
-which runs from #-# January on the campus of New York University in Abu Dhabi. Feel
+which runs from 19-22 January on the campus of New York University in Abu Dhabi. Feel
 free to use/share/adopt these notes for other courses.
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 ---
 
-## Code of Conduct
-
-Our workshop is dedicated to providing a harassment-free experience
-for everyone. We do not tolerate harassment of participants in any form.
-If someone makes you or anyone else feel unsafe or unwelcome, please report it as
-soon as possible. Harassment and other code of conduct violations reduce the value
-of our event for everyone. We want you to be happy at our event. People like you
-make our event a better place.
-
-In order for this tutorial to be successful, we ask that participants take note
-of the following guidelines throughout the session:
-
-- This is an interactive workshop, and we expect everyone to, as best as possible,
-follow along with the tutorial.
-- At the same time, please stay at the same point with us in the tutorial. If you are
-finished with a section ahead of time, you are more than welcome to hack away at our
-code. We find that staying together through the tutorial works best for everyone
-involved.
-- Please only drive your computer. You are more than welcome to explain to your neighbors
-what is going on in their notebook, but we want everyone to feel comfortable working
-with the code themselves.
-
-
-## Community Guidelines
-- Being open minded including leaving room for exploration and creativity.
-- Generous listening.
-- Make sure to clearly state terms and meanings.
-- Questions always encouraged!
-- Respectful of the time that it takes to learn different technologies/concepts.
-- Active listening.
-- Provide help when/if asked.
-- Aware of the space that we are in and how sound travles.
-- Side conversations are great over coffee!
-- Offer the benefit of the doubt toward others.
-- Amplifying ideas while giving credit.
-- Leave space for everyone to participate.
-- Be mindful of where the group activity is going.
-- Being patient and flexible in order to understand where everyone is coming from.
-- Take responsibility for the effects of our actions and words, even if they were unintended.
+## Community Expectations
+We will create our expectations together. 
 
 
 ## Description
 
-Image Analysis with Deep Learning will examine methods for image analysis
-at scale. Tasks covered include color analysis, object detection, facial
-recognition, image similarity, and image clustering. The course will work
-a variety of visual culture including art, photography, and moving images
-to ask:
-
-- How can we identify similar works of art using image analysis?
-- How can we identify objects in 100,000 photographs?
-- How can we track character’s movements in a sit-com?
-- How has color in film changed over time?
-
-While the course will introduce several out-of-the-box tools, the main
-focus will be on deep learning techniques with Python. No prior programming
-experience is required.
+How can we use digital methods to analyze images such as films, manuscripts, paintings, and photographs? 
+This workshop will explore how computers view images and methods for analysis including color, 
+image similarity, and feature detection such as faces and objects. 
+The workshop will use out-of-the-box toolkits and programming in R; 
+it is designed for participants with no programming experience.
 
 ## Goals
 
@@ -83,7 +37,7 @@ If you have any further questions or concerns, please let us know!
 
 ## Software
 
-We will be using the Python programming language for the workshop, as well as
+We will be using the R and Python programming language for the workshop, as well as
 several third-party packages. All of it is free and open source. Here is the
 link to the Anaconda version of Python that we suggest you use:
 
@@ -98,6 +52,16 @@ Anaconda, we generally suggest that you start from scratch.
 
 Our specific pace and topics will adjust given the needs of those in the workshop,
 but here is an overview of what we plan to cover each day:
+
+
+| Day        |  Time           | Session  | Topics  |
+| ------------- |:-------------:| -----:|-----:|
+| Sunday, Jan 19     | 	1400-1630 | 1|  introductions, community guidelines, working with image corpora |
+| Monday, Jan 20     | 	1000-1230      |   2| what is an image?|
+| Monday, Jan 20 | 	1400-1600   |    3 | xxxxxxx|
+| Tuesday, Jan 21 | 	1000-1230  |    4 | xxxxxxx|
+| Tuesday, Jan 21 | 	1400-1600  |   5 | xxxxxxx|
+| Wednesday, Jan 22 | 	1400-1600  |   6 | xxxxxxx|
 
 - **Day 1**: introductions; setting up Python; understanding how to organize an image
 corpus; understand how images are stored digitally
@@ -147,3 +111,26 @@ Andrej Karpathy, Aditya Khosla, Michael Bernstein, Alexander C. Berg and Li Fei-
 "ImageNet Large Scale Visual Recognition Challenge". IJCV, 2015. [link](https://arxiv.org/pdf/1409.0575v1.pdf)
 - Wevers, Melvin, and Thomas Smits. "The visual digital turn: Using neural networks to study historical images"
 *Digital Scholarship in the Humanities*. [link](https://doi.org/10.1093/llc/fqy085)
+
+
+## Code of Conduct
+
+Our workshop is dedicated to providing a harassment-free experience
+for everyone. We do not tolerate harassment of participants in any form.
+If someone makes you or anyone else feel unsafe or unwelcome, please report it as
+soon as possible. Harassment and other code of conduct violations reduce the value
+of our event for everyone. We want you to be happy at our event. People like you
+make our event a better place.
+
+In order for this tutorial to be successful, we ask that participants take note
+of the following guidelines throughout the session:
+
+- This is an interactive workshop, and we expect everyone to, as best as possible,
+follow along with the tutorial.
+- At the same time, please stay at the same point with us in the tutorial. If you are
+finished with a section ahead of time, you are more than welcome to hack away at our
+code. We find that staying together through the tutorial works best for everyone
+involved.
+- Please only drive your computer. You are more than welcome to explain to your neighbors
+what is going on in their notebook, but we want everyone to feel comfortable working
+with the code themselves.
