@@ -56,12 +56,12 @@ but here is an overview of what we plan to cover each day:
 
 | Day        |  Time           | Session  | Topics  |
 | ------------- |:-------------:| -----:|-----:|
-| Sunday, Jan 19     | 	1400-1630 | 1|  introductions, community guidelines, working with image corpora |
-| Monday, Jan 20     | 	1000-1230      |   2| what is an image?|
-| Monday, Jan 20 | 	1400-1600   |    3 | xxxxxxx|
-| Tuesday, Jan 21 | 	1000-1230  |    4 | xxxxxxx|
-| Tuesday, Jan 21 | 	1400-1600  |   5 | xxxxxxx|
-| Wednesday, Jan 22 | 	1400-1600  |   6 | xxxxxxx|
+| Sunday, Jan 19     | 	1400-1630 | 1|  introductions, community guidelines, setting up R, setting up an image corpora |
+| Monday, Jan 20     | 	1000-1230      |   2| what's possible?; what is an image?; what is a digital image? |
+| Monday, Jan 20 | 	1400-1600   |    3 | distant viewing; code systems - annotating color (hsv, brightness), complexity |
+| Tuesday, Jan 21 | 	1000-1230  |    4 | code systems - annotating features (facial recognition; objects); transfer learning; aggregating - image similarity|
+| Tuesday, Jan 21 | 	1400-1600  |   5 | exploring - summary stats |
+| Wednesday, Jan 22 | 	1400-1600  |   6 | communicating - recommender systems, tensorflow.js and pixplot|
 
 - **Day 1**: introductions; setting up Python; understanding how to organize an image
 corpus; understand how images are stored digitally
