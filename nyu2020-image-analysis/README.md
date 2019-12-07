@@ -18,6 +18,9 @@ image similarity, and feature detection such as faces and objects.
 The workshop will use out-of-the-box toolkits and programming in R; 
 it is designed for participants with no programming experience.
 
+## Goals
+
+
 
 ## Schedule — Overview
 
@@ -25,7 +28,7 @@ Our specific pace and topics will adjust given the needs of those in the worksho
 but here is an overview of what we plan to cover each day:
 
 
-| Day        |  Time           | Session  | Topics  |
+| Day        |  Time           | #  | Topics  |
 | ------------- |:-------------:| -----:|-----:|
 | Sunday, Jan 19     | 	1400-1630 | 1|  introductions, community guidelines, setting up R, setting up an image corpora |
 | Monday, Jan 20     | 	1000-1230      |   2| what's possible?; what is an image?; what is a digital image? |
@@ -34,19 +37,6 @@ but here is an overview of what we plan to cover each day:
 | Tuesday, Jan 21 | 	1400-1600  |   5 | exploring - summary stats |
 | Wednesday, Jan 22 | 	1400-1600  |   6 | communicating - recommender systems, tensorflow.js and pixplot|
 
-- **Day 1**: introductions; setting up Python; understanding how to organize an image
-corpus; understand how images are stored digitally
-- **Day 2**: build exploratory plots from simple image features;  machine learning terminology;
-linear regression for image classification; penalized regression; applying texture filters;
-motivation for deep learning; using well-known computer vision corpora
-- **Day 3**: setting up tensorflow, and keras; building deep learning models
-from scratch; convolutions; transfer learning; embeddings; use small CV datasets for
-datasets from scratch; visualization of wikiart dataset using transfer learning
-- **Day 4**: more visualization techniques; the distant viewing toolkit; working
-with moving images; face detection
-
-If there is something particular you would like us to show or would like to make
-sure that we get to, please let us know as soon as possible.
 
 ## Community Expectations
 We will create our expectations together. 
@@ -61,7 +51,7 @@ or downloading the notes as a zip file (see the green "Clone or download button"
 ## References
 
 During the workshop, we will construct a bibliography of references for both
-technical and conceptual topics that arise.
+technical and conceptual topics that arise.  
 
 - Arnold, Taylor, and Lauren Tilton. *Humanities Data in R*. New York: Springer, 2015.
 [link](https://link.springer.com/book/10.1007%2F978-3-319-20702-5).
@@ -96,18 +86,7 @@ involved.
 what is going on in their notebook, but we want everyone to feel comfortable working
 with the code themselves.
 
-## Goals
 
-There are many reasons that humanists might engage in image analysis.
-We often characterize these into three categories:
-
-- **Browse/ Exploration**: Using image analysis to open up exploration of a series of images.
-- **Domain Specific Analysis**: Analyzing a feature or set of features in order to answer a
-domain specific set of questions (ex. use of color in Film Studies)
-- **Critical Data Studies**: Many of the applications of large-scale data analysis and
-algorithmic decision making involve the usage of image analysis.
-
-If you have any further questions or concerns, please let us know!
 
 ## Software
 
