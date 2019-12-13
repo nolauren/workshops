@@ -3,8 +3,10 @@
 [Lauren Tilton](https://laurentilton.com), Assistant Professor of Digital Humanities, [@nolauren](https://twitter.com/nolauren)
 
 This repository contains notes, code, and data for the NYU Abu Dhabi 2020 workshop,
-which runs from 19-22 January on the campus of New York University in Abu Dhabi. Feel
-free to use/share/adopt these notes for other courses. For more information on the Winter Instutue, visit https://wp.nyu.edu/widh/.
+which runs from 19-22 January on the campus of New York University in Abu Dhabi. The notes are made in collaboration with Taylor Arnold (github.com/statsmaths and @statsmaths), co-director of the Distant Viewing Lab. Feel
+free to use/share/adopt these notes for other courses with proper citation. For more information on the Winter Instutue, visit https://wp.nyu.edu/widh/.
+
+Citation: Taylor Arnold and Lauren Tilton. "Image Analysis." NYU Abu Dhabi Digitial Humanities Winter Institute. January 2020. 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
@@ -19,8 +21,12 @@ The workshop will use out-of-the-box toolkits and programming in R;
 it is designed for participants with no programming experience.
 
 ## Goals
-
-
+- Possibilites for humanistic inquiry with image analysis 
+- Developing familiarity with programming languages and EDA
+- How to structure data for image analysis
+- Understand how computers "process" images
+- Begin building a methodological toolkit (i.e. feature extraction) for image analysis
+- Introduce the concept of Distant Viewing
 
 ## Schedule — Overview
 
@@ -30,12 +36,12 @@ but here is an overview of what we plan to cover each day:
 
 | Day        |  Time           | #  | Topics  |
 | ------------- |:-------------:| -----:|-----:|
-| Sunday, Jan 19     | 	1400-1630 | 1|  introductions, community guidelines, setting up R, setting up an image corpora |
-| Monday, Jan 20     | 	1000-1230      |   2| what's possible?; what is an image?; what is a digital image? |
-| Monday, Jan 20 | 	1400-1600   |    3 | distant viewing; code systems - annotating color (hsv, brightness), complexity |
-| Tuesday, Jan 21 | 	1000-1230  |    4 | code systems - annotating features (facial recognition; objects); transfer learning; aggregating - image similarity|
-| Tuesday, Jan 21 | 	1400-1600  |   5 | exploring - summary stats |
-| Wednesday, Jan 22 | 	1400-1600  |   6 | communicating - recommender systems, tensorflow.js and pixplot|
+| Sunday, Jan 19     | 	1400-1630 | 1|  set-up - introductions, community guidelines, setting up R, setting up an image corpora |
+| Monday, Jan 20     | 	1000-1230      |   2| EDA and graphics,  what is a digital image? |
+| Monday, Jan 20 | 	1400-1600   |    3 |   color (hsv, brightness), EDA |
+| Tuesday, Jan 21 | 	1000-1230  |    4 |  features (facial recognition; objects),  embeddings|
+| Tuesday, Jan 21 | 	1400-1600  |   5 | exploring with case studies|
+| Wednesday, Jan 22 | 	1400-1600  |   6 | distant viewing |
 
 ### Session 1 (Sunday)
 
