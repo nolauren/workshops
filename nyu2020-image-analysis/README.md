@@ -37,6 +37,39 @@ but here is an overview of what we plan to cover each day:
 | Tuesday, Jan 21 | 	1400-1600  |   5 | exploring - summary stats |
 | Wednesday, Jan 22 | 	1400-1600  |   6 | communicating - recommender systems, tensorflow.js and pixplot|
 
+### Session 1 (Sunday)
+
+- Introductions and Course Overview [30 minutes]
+- Commmunity Guidelines [30 minutes]
+- Install and Introduction to R (notes01.Rmd) [1 hour]
+- What kind of data? ([Google Slides](https://docs.google.com/presentation/d/17YiuMOiuzEIq7Urw8XypAI0ErUp5PLIHEZ6UpKjtRd8/edit?usp=sharing))
+- What can I do?! Ideas for Image Analysis (Google Slides)
+
+### Session 2 (Monday)
+- Grapics with R (notes02.md)
+- What is an image to a computer? (Google Slides)
+- A Short Introduction to Pixels and Images (Google Slides)
+- Reading an image with R (notes03a.Rmd)
+
+### Session 3 (Monday)
+- Color Theory and Why (Google Slides)
+- Color Analysis (notes03b.Rmd)
+- What and Why EDA? (Google Slides)
+- If time: Text Analysis with First Paragraph of Wikipedia (notes04.Rmd)
+
+### Session 4 (Tuesday)
+- What is Machine Learning (Google Slides)
+- What are Neural Networks? (Google Slides)
+- Objects and Embeddings/ Image Similiarity (notes05.Rmd)
+
+### Session 5 (Tuesday)
+- Case Study: FSA Color Photographs  (notes06.Rmd)
+- Pairing Up: FSA B&W Photographs or WikiArt  (notes07.Rmd or notes08.Rmd)
+
+### Session 6 (Wednesday)
+- Distant Viewing (Google Slides)
+- Case Study: Sit-Coms (notes09.Rmd)
+- Reflection
 
 ## Community Expectations
 We will create our expectations together. 
